@@ -1,0 +1,691 @@
+[12:40:20.596298] [Import] [info] (th=799241) Log level for 'Import' set to 'info'
+[12:40:20.596758] [Import] [info] (th=799241) Importing from /Users/sergey/Downloads/FPS assets/Animation/Weapon/Animations/Pistol/Animations/01_Semi-Automatic_Pistol@Select.FBX
+[12:40:20.630201] [Import] [info] (th=799241) Imported scene tree:
+name: "RootNode"
+
+	name: "BSP_rig_$AssimpFbx$_Translation"
+	
+		name: "BSP_rig_$AssimpFbx$_PreRotation"
+		
+			name: "BSP_rig_$AssimpFbx$_Rotation"
+			
+				name: "BSP_rig_$AssimpFbx$_Scaling"
+				
+					name: "BSP_rig"
+					
+						name: "BSP_rig_Neck"
+						
+							name: "BSP_rig_Head"
+							
+								name: "BSP_rig_HeadTop"
+								
+						name: "BSP_rig_L_Shoulder"
+						
+							name: "BSP_rig_L_Arm"
+							
+								name: "BSP_rig_L_ForeArm"
+								
+									name: "BSP_rig_L_Hand"
+									
+										name: "BSP_rig_L_Finger1"
+										
+											name: "BSP_rig_L_Finger11"
+											
+												name: "BSP_rig_L_Finger12"
+												
+													name: "BSP_rig_L_Finger1Nub"
+													
+										name: "BSP_rig_L_Finger2"
+										
+											name: "BSP_rig_L_Finger21"
+											
+												name: "BSP_rig_L_Finger22"
+												
+													name: "BSP_rig_L_Finger2Nub"
+													
+										name: "BSP_rig_L_Finger3"
+										
+											name: "BSP_rig_L_Finger31"
+											
+												name: "BSP_rig_L_Finger32"
+												
+													name: "BSP_rig_L_Finger3Nub"
+													
+										name: "BSP_rig_L_Finger4"
+										
+											name: "BSP_rig_L_Finger41"
+											
+												name: "BSP_rig_L_Finger42"
+												
+													name: "BSP_rig_L_Finger4Nub"
+													
+										name: "BSP_rig_L_Finger5"
+										
+											name: "BSP_rig_L_Finger51"
+											
+												name: "BSP_rig_L_Finger52"
+												
+													name: "BSP_rig_L_Finger5Nub"
+													
+						name: "BSP_rig_RightShoulder"
+						
+							name: "BSP_rig_RightArm"
+							
+								name: "BSP_rig_RightForeArm"
+								
+									name: "BSP_rig_RightHand"
+									
+										name: "BSP_rig_R_Finger"
+										
+											name: "BSP_rig_R_Finger11"
+											
+												name: "BSP_rig_R_Finger12"
+												
+													name: "BSP_rig_R_Finger1Nub"
+													
+										name: "BSP_rig_R_Finger2"
+										
+											name: "BSP_rig_R_Finger21"
+											
+												name: "BSP_rig_R_Finger22"
+												
+													name: "BSP_rig_R_Finger2Nub"
+													
+										name: "BSP_rig_R_Finger3"
+										
+											name: "BSP_rig_R_Finger31"
+											
+												name: "BSP_rig_R_Finger32"
+												
+													name: "BSP_rig_R_Finger3Nub"
+													
+										name: "BSP_rig_R_Finger4"
+										
+											name: "BSP_rig_R_Finger41"
+											
+												name: "BSP_rig_R_Finger42"
+												
+													name: "BSP_rig_R_Finger4Nub"
+													
+										name: "BSP_rig_R_Finger5"
+										
+											name: "BSP_rig_R_Finger51"
+											
+												name: "BSP_rig_R_Finger52"
+												
+													name: "BSP_rig_R_Finger5Nub"
+													
+										name: "BSP_rig_Knife"
+										
+						name: "BSP_rig_Spine1"
+						
+						name: "BSP_rig_Gun"
+						
+							name: "BSP_rig_Slide"
+							
+							name: "BSP_rig_Clip"
+							
+								name: "BSP_rig_Bullet"
+								
+							name: "BSP_rig_Trigger"
+							
+							name: "FIRESPOT"
+							
+							name: "SMOKE"
+							
+
+[12:40:20.630213] [Import] [info] (th=799241) File loaded successfully
+[12:40:20.630217] [Import] [info] (th=799241) Meshes count: 0
+[12:40:20.630218] [Import] [info] (th=799241) Materials count: 0
+[12:40:50.902492] [Import] [info] (th=799241) Importing from /Users/sergey/Downloads/FPS assets/Animation/Weapon/Animations/Pistol/Animations/20_Semi-Automatic_Pistol@AlternateTo.FBX
+[12:40:50.923328] [Import] [info] (th=799241) Imported scene tree:
+name: "RootNode"
+
+	name: "BSP_rig_$AssimpFbx$_Translation"
+	
+		name: "BSP_rig_$AssimpFbx$_PreRotation"
+		
+			name: "BSP_rig_$AssimpFbx$_Rotation"
+			
+				name: "BSP_rig_$AssimpFbx$_Scaling"
+				
+					name: "BSP_rig"
+					
+						name: "BSP_rig_Neck"
+						
+							name: "BSP_rig_Head"
+							
+								name: "BSP_rig_HeadTop"
+								
+						name: "BSP_rig_L_Shoulder"
+						
+							name: "BSP_rig_L_Arm"
+							
+								name: "BSP_rig_L_ForeArm"
+								
+									name: "BSP_rig_L_Hand"
+									
+										name: "BSP_rig_L_Finger1"
+										
+											name: "BSP_rig_L_Finger11"
+											
+												name: "BSP_rig_L_Finger12"
+												
+													name: "BSP_rig_L_Finger1Nub"
+													
+										name: "BSP_rig_L_Finger2"
+										
+											name: "BSP_rig_L_Finger21"
+											
+												name: "BSP_rig_L_Finger22"
+												
+													name: "BSP_rig_L_Finger2Nub"
+													
+										name: "BSP_rig_L_Finger3"
+										
+											name: "BSP_rig_L_Finger31"
+											
+												name: "BSP_rig_L_Finger32"
+												
+													name: "BSP_rig_L_Finger3Nub"
+													
+										name: "BSP_rig_L_Finger4"
+										
+											name: "BSP_rig_L_Finger41"
+											
+												name: "BSP_rig_L_Finger42"
+												
+													name: "BSP_rig_L_Finger4Nub"
+													
+										name: "BSP_rig_L_Finger5"
+										
+											name: "BSP_rig_L_Finger51"
+											
+												name: "BSP_rig_L_Finger52"
+												
+													name: "BSP_rig_L_Finger5Nub"
+													
+						name: "BSP_rig_RightShoulder"
+						
+							name: "BSP_rig_RightArm"
+							
+								name: "BSP_rig_RightForeArm"
+								
+									name: "BSP_rig_RightHand"
+									
+										name: "BSP_rig_R_Finger"
+										
+											name: "BSP_rig_R_Finger11"
+											
+												name: "BSP_rig_R_Finger12"
+												
+													name: "BSP_rig_R_Finger1Nub"
+													
+										name: "BSP_rig_R_Finger2"
+										
+											name: "BSP_rig_R_Finger21"
+											
+												name: "BSP_rig_R_Finger22"
+												
+													name: "BSP_rig_R_Finger2Nub"
+													
+										name: "BSP_rig_R_Finger3"
+										
+											name: "BSP_rig_R_Finger31"
+											
+												name: "BSP_rig_R_Finger32"
+												
+													name: "BSP_rig_R_Finger3Nub"
+													
+										name: "BSP_rig_R_Finger4"
+										
+											name: "BSP_rig_R_Finger41"
+											
+												name: "BSP_rig_R_Finger42"
+												
+													name: "BSP_rig_R_Finger4Nub"
+													
+										name: "BSP_rig_R_Finger5"
+										
+											name: "BSP_rig_R_Finger51"
+											
+												name: "BSP_rig_R_Finger52"
+												
+													name: "BSP_rig_R_Finger5Nub"
+													
+										name: "BSP_rig_Knife"
+										
+						name: "BSP_rig_Spine1"
+						
+						name: "BSP_rig_Gun"
+						
+							name: "BSP_rig_Slide"
+							
+							name: "BSP_rig_Clip"
+							
+								name: "BSP_rig_Bullet"
+								
+							name: "BSP_rig_Trigger"
+							
+							name: "FIRESPOT"
+							
+							name: "SMOKE"
+							
+
+[12:40:50.923342] [Import] [info] (th=799241) File loaded successfully
+[12:40:50.923344] [Import] [info] (th=799241) Meshes count: 0
+[12:40:50.923346] [Import] [info] (th=799241) Materials count: 0
+[12:41:18.217426] [Import] [info] (th=799241) Importing from /Users/sergey/Downloads/FPS assets/Animation/Weapon/Animations/Pistol/Animations/02_Semi-Automatic_Pistol@Putaway.FBX
+[12:41:18.239281] [Import] [info] (th=799241) Imported scene tree:
+name: "RootNode"
+
+	name: "BSP_rig_$AssimpFbx$_Translation"
+	
+		name: "BSP_rig_$AssimpFbx$_PreRotation"
+		
+			name: "BSP_rig_$AssimpFbx$_Rotation"
+			
+				name: "BSP_rig_$AssimpFbx$_Scaling"
+				
+					name: "BSP_rig"
+					
+						name: "BSP_rig_Neck"
+						
+							name: "BSP_rig_Head"
+							
+								name: "BSP_rig_HeadTop"
+								
+						name: "BSP_rig_L_Shoulder"
+						
+							name: "BSP_rig_L_Arm"
+							
+								name: "BSP_rig_L_ForeArm"
+								
+									name: "BSP_rig_L_Hand"
+									
+										name: "BSP_rig_L_Finger1"
+										
+											name: "BSP_rig_L_Finger11"
+											
+												name: "BSP_rig_L_Finger12"
+												
+													name: "BSP_rig_L_Finger1Nub"
+													
+										name: "BSP_rig_L_Finger2"
+										
+											name: "BSP_rig_L_Finger21"
+											
+												name: "BSP_rig_L_Finger22"
+												
+													name: "BSP_rig_L_Finger2Nub"
+													
+										name: "BSP_rig_L_Finger3"
+										
+											name: "BSP_rig_L_Finger31"
+											
+												name: "BSP_rig_L_Finger32"
+												
+													name: "BSP_rig_L_Finger3Nub"
+													
+										name: "BSP_rig_L_Finger4"
+										
+											name: "BSP_rig_L_Finger41"
+											
+												name: "BSP_rig_L_Finger42"
+												
+													name: "BSP_rig_L_Finger4Nub"
+													
+										name: "BSP_rig_L_Finger5"
+										
+											name: "BSP_rig_L_Finger51"
+											
+												name: "BSP_rig_L_Finger52"
+												
+													name: "BSP_rig_L_Finger5Nub"
+													
+						name: "BSP_rig_RightShoulder"
+						
+							name: "BSP_rig_RightArm"
+							
+								name: "BSP_rig_RightForeArm"
+								
+									name: "BSP_rig_RightHand"
+									
+										name: "BSP_rig_R_Finger"
+										
+											name: "BSP_rig_R_Finger11"
+											
+												name: "BSP_rig_R_Finger12"
+												
+													name: "BSP_rig_R_Finger1Nub"
+													
+										name: "BSP_rig_R_Finger2"
+										
+											name: "BSP_rig_R_Finger21"
+											
+												name: "BSP_rig_R_Finger22"
+												
+													name: "BSP_rig_R_Finger2Nub"
+													
+										name: "BSP_rig_R_Finger3"
+										
+											name: "BSP_rig_R_Finger31"
+											
+												name: "BSP_rig_R_Finger32"
+												
+													name: "BSP_rig_R_Finger3Nub"
+													
+										name: "BSP_rig_R_Finger4"
+										
+											name: "BSP_rig_R_Finger41"
+											
+												name: "BSP_rig_R_Finger42"
+												
+													name: "BSP_rig_R_Finger4Nub"
+													
+										name: "BSP_rig_R_Finger5"
+										
+											name: "BSP_rig_R_Finger51"
+											
+												name: "BSP_rig_R_Finger52"
+												
+													name: "BSP_rig_R_Finger5Nub"
+													
+										name: "BSP_rig_Knife"
+										
+						name: "BSP_rig_Spine1"
+						
+						name: "BSP_rig_Gun"
+						
+							name: "BSP_rig_Slide"
+							
+							name: "BSP_rig_Clip"
+							
+								name: "BSP_rig_Bullet"
+								
+							name: "BSP_rig_Trigger"
+							
+							name: "FIRESPOT"
+							
+							name: "SMOKE"
+							
+
+[12:41:18.239294] [Import] [info] (th=799241) File loaded successfully
+[12:41:18.239296] [Import] [info] (th=799241) Meshes count: 0
+[12:41:18.239298] [Import] [info] (th=799241) Materials count: 0
+[12:41:51.966515] [Import] [info] (th=799241) Importing from /Users/sergey/Downloads/FPS assets/Animation/Weapon/Animations/Pistol/Animations/06_Semi-Automatic_Pistol@StartFire.FBX
+[12:41:51.988427] [Import] [info] (th=799241) Imported scene tree:
+name: "RootNode"
+
+	name: "BSP_rig_$AssimpFbx$_Translation"
+	
+		name: "BSP_rig_$AssimpFbx$_PreRotation"
+		
+			name: "BSP_rig_$AssimpFbx$_Rotation"
+			
+				name: "BSP_rig_$AssimpFbx$_Scaling"
+				
+					name: "BSP_rig"
+					
+						name: "BSP_rig_Neck"
+						
+							name: "BSP_rig_Head"
+							
+								name: "BSP_rig_HeadTop"
+								
+						name: "BSP_rig_L_Shoulder"
+						
+							name: "BSP_rig_L_Arm"
+							
+								name: "BSP_rig_L_ForeArm"
+								
+									name: "BSP_rig_L_Hand"
+									
+										name: "BSP_rig_L_Finger1"
+										
+											name: "BSP_rig_L_Finger11"
+											
+												name: "BSP_rig_L_Finger12"
+												
+													name: "BSP_rig_L_Finger1Nub"
+													
+										name: "BSP_rig_L_Finger2"
+										
+											name: "BSP_rig_L_Finger21"
+											
+												name: "BSP_rig_L_Finger22"
+												
+													name: "BSP_rig_L_Finger2Nub"
+													
+										name: "BSP_rig_L_Finger3"
+										
+											name: "BSP_rig_L_Finger31"
+											
+												name: "BSP_rig_L_Finger32"
+												
+													name: "BSP_rig_L_Finger3Nub"
+													
+										name: "BSP_rig_L_Finger4"
+										
+											name: "BSP_rig_L_Finger41"
+											
+												name: "BSP_rig_L_Finger42"
+												
+													name: "BSP_rig_L_Finger4Nub"
+													
+										name: "BSP_rig_L_Finger5"
+										
+											name: "BSP_rig_L_Finger51"
+											
+												name: "BSP_rig_L_Finger52"
+												
+													name: "BSP_rig_L_Finger5Nub"
+													
+						name: "BSP_rig_RightShoulder"
+						
+							name: "BSP_rig_RightArm"
+							
+								name: "BSP_rig_RightForeArm"
+								
+									name: "BSP_rig_RightHand"
+									
+										name: "BSP_rig_R_Finger"
+										
+											name: "BSP_rig_R_Finger11"
+											
+												name: "BSP_rig_R_Finger12"
+												
+													name: "BSP_rig_R_Finger1Nub"
+													
+										name: "BSP_rig_R_Finger2"
+										
+											name: "BSP_rig_R_Finger21"
+											
+												name: "BSP_rig_R_Finger22"
+												
+													name: "BSP_rig_R_Finger2Nub"
+													
+										name: "BSP_rig_R_Finger3"
+										
+											name: "BSP_rig_R_Finger31"
+											
+												name: "BSP_rig_R_Finger32"
+												
+													name: "BSP_rig_R_Finger3Nub"
+													
+										name: "BSP_rig_R_Finger4"
+										
+											name: "BSP_rig_R_Finger41"
+											
+												name: "BSP_rig_R_Finger42"
+												
+													name: "BSP_rig_R_Finger4Nub"
+													
+										name: "BSP_rig_R_Finger5"
+										
+											name: "BSP_rig_R_Finger51"
+											
+												name: "BSP_rig_R_Finger52"
+												
+													name: "BSP_rig_R_Finger5Nub"
+													
+										name: "BSP_rig_Knife"
+										
+						name: "BSP_rig_Spine1"
+						
+						name: "BSP_rig_Gun"
+						
+							name: "BSP_rig_Slide"
+							
+							name: "BSP_rig_Clip"
+							
+								name: "BSP_rig_Bullet"
+								
+							name: "BSP_rig_Trigger"
+							
+							name: "FIRESPOT"
+							
+							name: "SMOKE"
+							
+
+[12:41:51.988440] [Import] [info] (th=799241) File loaded successfully
+[12:41:51.988442] [Import] [info] (th=799241) Meshes count: 0
+[12:41:51.988443] [Import] [info] (th=799241) Materials count: 0
+[12:42:28.465052] [Import] [info] (th=799241) Importing from /Users/sergey/Downloads/FPS assets/Animation/Weapon/Animations/Pistol/Animations/08_Semi-Automatic_Pistol@EndFire.FBX
+[12:42:28.486826] [Import] [info] (th=799241) Imported scene tree:
+name: "RootNode"
+
+	name: "BSP_rig_$AssimpFbx$_Translation"
+	
+		name: "BSP_rig_$AssimpFbx$_PreRotation"
+		
+			name: "BSP_rig_$AssimpFbx$_Rotation"
+			
+				name: "BSP_rig_$AssimpFbx$_Scaling"
+				
+					name: "BSP_rig"
+					
+						name: "BSP_rig_Neck"
+						
+							name: "BSP_rig_Head"
+							
+								name: "BSP_rig_HeadTop"
+								
+						name: "BSP_rig_L_Shoulder"
+						
+							name: "BSP_rig_L_Arm"
+							
+								name: "BSP_rig_L_ForeArm"
+								
+									name: "BSP_rig_L_Hand"
+									
+										name: "BSP_rig_L_Finger1"
+										
+											name: "BSP_rig_L_Finger11"
+											
+												name: "BSP_rig_L_Finger12"
+												
+													name: "BSP_rig_L_Finger1Nub"
+													
+										name: "BSP_rig_L_Finger2"
+										
+											name: "BSP_rig_L_Finger21"
+											
+												name: "BSP_rig_L_Finger22"
+												
+													name: "BSP_rig_L_Finger2Nub"
+													
+										name: "BSP_rig_L_Finger3"
+										
+											name: "BSP_rig_L_Finger31"
+											
+												name: "BSP_rig_L_Finger32"
+												
+													name: "BSP_rig_L_Finger3Nub"
+													
+										name: "BSP_rig_L_Finger4"
+										
+											name: "BSP_rig_L_Finger41"
+											
+												name: "BSP_rig_L_Finger42"
+												
+													name: "BSP_rig_L_Finger4Nub"
+													
+										name: "BSP_rig_L_Finger5"
+										
+											name: "BSP_rig_L_Finger51"
+											
+												name: "BSP_rig_L_Finger52"
+												
+													name: "BSP_rig_L_Finger5Nub"
+													
+						name: "BSP_rig_RightShoulder"
+						
+							name: "BSP_rig_RightArm"
+							
+								name: "BSP_rig_RightForeArm"
+								
+									name: "BSP_rig_RightHand"
+									
+										name: "BSP_rig_R_Finger"
+										
+											name: "BSP_rig_R_Finger11"
+											
+												name: "BSP_rig_R_Finger12"
+												
+													name: "BSP_rig_R_Finger1Nub"
+													
+										name: "BSP_rig_R_Finger2"
+										
+											name: "BSP_rig_R_Finger21"
+											
+												name: "BSP_rig_R_Finger22"
+												
+													name: "BSP_rig_R_Finger2Nub"
+													
+										name: "BSP_rig_R_Finger3"
+										
+											name: "BSP_rig_R_Finger31"
+											
+												name: "BSP_rig_R_Finger32"
+												
+													name: "BSP_rig_R_Finger3Nub"
+													
+										name: "BSP_rig_R_Finger4"
+										
+											name: "BSP_rig_R_Finger41"
+											
+												name: "BSP_rig_R_Finger42"
+												
+													name: "BSP_rig_R_Finger4Nub"
+													
+										name: "BSP_rig_R_Finger5"
+										
+											name: "BSP_rig_R_Finger51"
+											
+												name: "BSP_rig_R_Finger52"
+												
+													name: "BSP_rig_R_Finger5Nub"
+													
+										name: "BSP_rig_Knife"
+										
+						name: "BSP_rig_Spine1"
+						
+						name: "BSP_rig_Gun"
+						
+							name: "BSP_rig_Slide"
+							
+							name: "BSP_rig_Clip"
+							
+								name: "BSP_rig_Bullet"
+								
+							name: "BSP_rig_Trigger"
+							
+							name: "FIRESPOT"
+							
+							name: "SMOKE"
+							
+
+[12:42:28.486838] [Import] [info] (th=799241) File loaded successfully
+[12:42:28.486844] [Import] [info] (th=799241) Meshes count: 0
+[12:42:28.486845] [Import] [info] (th=799241) Materials count: 0

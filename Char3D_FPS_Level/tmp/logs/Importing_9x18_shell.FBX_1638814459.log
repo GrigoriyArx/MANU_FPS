@@ -1,0 +1,22 @@
+[21:14:19.670315] [Import] [info] (th=357326) Log level for 'Import' set to 'info'
+[21:14:19.671155] [Import] [info] (th=357326) Importing from /Users/sergey/Downloads/FPS assets/Models/Weapons/Ammo/Models/9x18_shell.FBX
+[21:14:19.688948] [Import] [info] (th=357326) Imported scene tree:
+name: "RootNode"
+
+	name: "9mm_shell_$AssimpFbx$_PreRotation"
+	
+		name: "9mm_shell_$AssimpFbx$_Scaling"
+		
+			name: "9mm_shell"
+			numMeshes: 1
+			 addr: "0x7fd19fd13800"
+			 name: "9mm_shell"
+			 numVertices: "133"
+			 numFaces: "192"
+			
+			
+
+[21:14:19.688958] [Import] [info] (th=357326) File loaded successfully
+[21:14:19.688962] [Import] [info] (th=357326) Meshes count: 1
+[21:14:19.688964] [Import] [info] (th=357326) Materials count: 1
+[21:14:19.690309] [Import] [info] (th=357326) Textures count (imported): 0

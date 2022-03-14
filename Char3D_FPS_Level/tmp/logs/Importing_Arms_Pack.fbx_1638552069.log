@@ -1,0 +1,56 @@
+[20:21:09.970865] [Import] [info] (th=568617) Log level for 'Import' set to 'info'
+[20:21:09.971725] [Import] [info] (th=568617) Importing from /Users/sergey/Downloads/Arms_Pack.fbx
+[20:21:10.027929] [Import] [info] (th=568617) Imported scene tree:
+name: "RootNode"
+
+	name: "Arm01"
+	numMeshes: 1
+	 addr: "0x7f8386c96c00"
+	 name: "Mesh"
+	 numVertices: "4294"
+	 numFaces: "7240"
+	
+	
+	name: "Arm02"
+	numMeshes: 1
+	 addr: "0x7f83a0afa200"
+	 name: "Mesh.001"
+	 numVertices: "4102"
+	 numFaces: "7028"
+	
+	
+	name: "Arm03"
+	numMeshes: 2
+	 addr: "0x7f83a0da4800"
+	 name: "Mesh.002"
+	 numVertices: "4234"
+	 numFaces: "6538"
+	
+	 addr: "0x7f83a0bb8c00"
+	 name: "Mesh.002"
+	 numVertices: "1187"
+	 numFaces: "2002"
+	
+	
+	name: "Camera"
+	
+	name: "Area"
+	
+	name: "Area.001"
+	
+
+[20:21:10.027942] [Import] [info] (th=568617) File loaded successfully
+[20:21:10.027945] [Import] [info] (th=568617) Meshes count: 4
+[20:21:10.027947] [Import] [info] (th=568617) Materials count: 4
+[20:21:10.031298] [Import] [warning] (th=568617) Texture not found: /Users/sergey/Downloads/D:/For Turbo Squid Sell/Fps Arm/1/textures/armColor.png
+[20:21:10.031338] [Import] [warning] (th=568617) Texture not found: /Users/sergey/Downloads/D:/For Turbo Squid Sell/Fps Arm/1/textures/armnormal.png
+[20:21:10.031419] [Import] [warning] (th=568617) Texture not found: /Users/sergey/Downloads/D:/For Turbo Squid Sell/Fps Arm/2/textures/arm1Color.png
+[20:21:10.031451] [Import] [warning] (th=568617) Texture not found: /Users/sergey/Downloads/D:/For Turbo Squid Sell/Fps Arm/2/textures/arm1Normal.png
+[20:21:10.031478] [Import] [warning] (th=568617) Texture not found: /Users/sergey/Downloads/D:/For Turbo Squid Sell/Fps Arm/2/textures/arm1Specular.png
+[20:21:10.031537] [Import] [warning] (th=568617) Texture not found: /Users/sergey/Downloads/D:/For Turbo Squid Sell/Fps Arm/3/textures/glovescolor.png
+[20:21:10.031563] [Import] [warning] (th=568617) Texture not found: /Users/sergey/Downloads/D:/For Turbo Squid Sell/Fps Arm/3/textures/glovesNormal.png
+[20:21:10.031613] [Import] [warning] (th=568617) Texture not found: /Users/sergey/Downloads/D:/For Turbo Squid Sell/Fps Arm/3/textures/glovesSpecular.png
+[20:21:10.031675] [Import] [warning] (th=568617) Texture not found: /Users/sergey/Downloads/D:/For Turbo Squid Sell/Fps Arm/3/textures/armcolor.png
+[20:21:10.031701] [Import] [warning] (th=568617) Texture not found: /Users/sergey/Downloads/D:/For Turbo Squid Sell/Fps Arm/3/textures/armNormal.png
+[20:21:10.031743] [Import] [warning] (th=568617) Texture not found: /Users/sergey/Downloads/D:/For Turbo Squid Sell/Fps Arm/3/textures/armpecular.png
+[20:21:10.031757] [Import] [info] (th=568617) Textures count (imported): 0

@@ -1,0 +1,123 @@
+[10:29:31.489611] [Import] [info] (th=13388) Log level for 'Import' set to 'info'
+[10:29:31.513171] [Import] [info] (th=13388) Importing from E:\!_WORK\GAMEdev\Manu\1st_persShooter\Sci-fi_level\GateDoor\GateDoor.fbx
+[10:29:31.780849] [Import] [info] (th=13388) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane.001"
+	numMeshes: 1
+	 addr: "000002131EB3EF70"
+	 name: "Plane.001"
+	 numVertices: "7528"
+	 numFaces: "4964"
+	
+	
+	name: "Armature"
+	
+		name: "root"
+		
+			name: "door"
+			
+			name: "Handler_front_L"
+			
+				name: "Handler_front_wheel_L"
+				
+			name: "Bolt_L"
+			
+			name: "Handler_rear_L"
+			
+				name: "Handler_rear_wheel_L"
+				
+			name: "Bolt_R"
+			
+
+[10:29:31.781216] [Import] [info] (th=13388) File loaded successfully
+[10:29:31.781253] [Import] [info] (th=13388) Meshes count: 1
+[10:29:31.781288] [Import] [info] (th=13388) Materials count: 1
+[10:29:31.788281] [Import] [info] (th=13388) Textures count (imported): 2
+[10:30:10.851902] [Import] [info] (th=13388) Importing from E:\!_WORK\GAMEdev\Manu\1st_persShooter\Sci-fi_level\GateDoor\Manu_export\GateDoor_T.fbx
+[10:30:10.951051] [Import] [info] (th=13388) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane.001"
+	numMeshes: 1
+	 addr: "000002131EB3CF90"
+	 name: "Plane.001"
+	 numVertices: "7528"
+	 numFaces: "4964"
+	
+	
+	name: "Armature"
+	
+		name: "root"
+		
+			name: "door"
+			
+			name: "Handler_front_L"
+			
+				name: "Handler_front_wheel_L"
+				
+			name: "Bolt_L"
+			
+			name: "Handler_rear_L"
+			
+				name: "Handler_rear_wheel_L"
+				
+			name: "Bolt_R"
+			
+
+[10:30:10.951097] [Import] [info] (th=13388) File loaded successfully
+[10:30:10.951131] [Import] [info] (th=13388) Meshes count: 1
+[10:30:10.951164] [Import] [info] (th=13388) Materials count: 1
+[10:30:10.951693] [Import] [info] (th=13388) Textures count (imported): 2
+[10:31:23.093460] [Import] [info] (th=13388) Importing from E:\!_WORK\GAMEdev\Manu\1st_persShooter\Sci-fi_level\GateDoor\Manu_export\GateDoor_OPEN.fbx
+[10:31:23.105312] [Import] [info] (th=13388) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "root"
+		
+			name: "door"
+			
+			name: "Handler_front_L"
+			
+				name: "Handler_front_wheel_L"
+				
+			name: "Bolt_L"
+			
+			name: "Handler_rear_L"
+			
+				name: "Handler_rear_wheel_L"
+				
+			name: "Bolt_R"
+			
+
+[10:31:23.105356] [Import] [info] (th=13388) File loaded successfully
+[10:31:23.105390] [Import] [info] (th=13388) Meshes count: 0
+[10:31:23.105423] [Import] [info] (th=13388) Materials count: 0
+[10:33:40.809112] [Import] [info] (th=13388) Importing from E:\!_WORK\GAMEdev\Manu\1st_persShooter\Sci-fi_level\GateDoor\Manu_export\GateDoor_CLOSE.fbx
+[10:33:40.812719] [Import] [info] (th=13388) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "root"
+		
+			name: "door"
+			
+			name: "Handler_front_L"
+			
+				name: "Handler_front_wheel_L"
+				
+			name: "Bolt_L"
+			
+			name: "Handler_rear_L"
+			
+				name: "Handler_rear_wheel_L"
+				
+			name: "Bolt_R"
+			
+
+[10:33:40.812764] [Import] [info] (th=13388) File loaded successfully
+[10:33:40.812797] [Import] [info] (th=13388) Meshes count: 0
+[10:33:40.812830] [Import] [info] (th=13388) Materials count: 0

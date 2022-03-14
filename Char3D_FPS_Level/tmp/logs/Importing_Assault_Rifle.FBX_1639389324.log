@@ -1,0 +1,743 @@
+[12:55:24.918114] [Import] [info] (th=437865) Log level for 'Import' set to 'info'
+[12:55:24.918697] [Import] [info] (th=437865) Importing from /Users/sergey/Downloads/FPS assets/Models/Weapons/Pick Up Weapons/Assault_Rifle.FBX
+[12:55:24.978124] [Import] [info] (th=437865) Imported scene tree:
+name: "RootNode"
+
+	name: "Assault_Rifle_LOD0_$AssimpFbx$_PreRotation"
+	
+		name: "Assault_Rifle_LOD0_$AssimpFbx$_Rotation"
+		
+			name: "Assault_Rifle_LOD0_$AssimpFbx$_GeometricRotation"
+			
+				name: "Assault_Rifle_LOD0"
+				numMeshes: 2
+				 addr: "0x7f8963bace00"
+				 name: "Assault_Rifle_LOD0"
+				 numVertices: "10025"
+				 numFaces: "7660"
+				
+				 addr: "0x7f8963945000"
+				 name: "Assault_Rifle_LOD0"
+				 numVertices: "26"
+				 numFaces: "24"
+				
+				
+	name: "Assault_Rifle_LOD1_$AssimpFbx$_PreRotation"
+	
+		name: "Assault_Rifle_LOD1_$AssimpFbx$_Rotation"
+		
+			name: "Assault_Rifle_LOD1_$AssimpFbx$_GeometricRotation"
+			
+				name: "Assault_Rifle_LOD1"
+				numMeshes: 2
+				 addr: "0x7f8951481600"
+				 name: "Assault_Rifle_LOD1"
+				 numVertices: "5083"
+				 numFaces: "3632"
+				
+				 addr: "0x7f895148bc00"
+				 name: "Assault_Rifle_LOD1"
+				 numVertices: "8"
+				 numFaces: "6"
+				
+				
+	name: "Assault_Rifle_LOD2_$AssimpFbx$_PreRotation"
+	
+		name: "Assault_Rifle_LOD2_$AssimpFbx$_Rotation"
+		
+			name: "Assault_Rifle_LOD2_$AssimpFbx$_GeometricRotation"
+			
+				name: "Assault_Rifle_LOD2"
+				numMeshes: 2
+				 addr: "0x7f895d140800"
+				 name: "Assault_Rifle_LOD2"
+				 numVertices: "2903"
+				 numFaces: "1703"
+				
+				 addr: "0x7f895d137a00"
+				 name: "Assault_Rifle_LOD2"
+				 numVertices: "6"
+				 numFaces: "4"
+				
+				
+	name: "Assault_Rifle_LOD3_$AssimpFbx$_PreRotation"
+	
+		name: "Assault_Rifle_LOD3_$AssimpFbx$_Rotation"
+		
+			name: "Assault_Rifle_LOD3_$AssimpFbx$_GeometricRotation"
+			
+				name: "Assault_Rifle_LOD3"
+				numMeshes: 2
+				 addr: "0x7f895d0c4600"
+				 name: "Assault_Rifle_LOD3"
+				 numVertices: "784"
+				 numFaces: "348"
+				
+				 addr: "0x7f895d0dc600"
+				 name: "Assault_Rifle_LOD3"
+				 numVertices: "4"
+				 numFaces: "2"
+				
+				
+
+[12:55:24.978136] [Import] [info] (th=437865) File loaded successfully
+[12:55:24.978144] [Import] [info] (th=437865) Meshes count: 8
+[12:55:24.979038] [Import] [info] (th=437865) Materials count: 8
+[12:55:24.981347] [Import] [info] (th=437865) Textures count (imported): 0
+[12:56:05.111775] [Import] [info] (th=437865) Importing from /Users/sergey/Downloads/FPS assets/Models/Weapons/Pick Up Weapons/Semi-Automatic_Pistol.FBX
+[12:56:05.140700] [Import] [info] (th=437865) Imported scene tree:
+name: "RootNode"
+
+	name: "Semi_Automatic_Pistol_LOD0_$AssimpFbx$_PreRotation"
+	
+		name: "Semi_Automatic_Pistol_LOD0_$AssimpFbx$_Rotation"
+		
+			name: "Semi_Automatic_Pistol_LOD0_$AssimpFbx$_GeometricRotation"
+			
+				name: "Semi_Automatic_Pistol_LOD0"
+				numMeshes: 1
+				 addr: "0x7f89638da600"
+				 name: "Semi_Automatic_Pistol_LOD0"
+				 numVertices: "3999"
+				 numFaces: "3442"
+				
+				
+	name: "Semi_Automatic_Pistol_LOD1_$AssimpFbx$_PreRotation"
+	
+		name: "Semi_Automatic_Pistol_LOD1_$AssimpFbx$_Rotation"
+		
+			name: "Semi_Automatic_Pistol_LOD1_$AssimpFbx$_GeometricRotation"
+			
+				name: "Semi_Automatic_Pistol_LOD1"
+				numMeshes: 1
+				 addr: "0x7f895caa3c00"
+				 name: "Semi_Automatic_Pistol_LOD1"
+				 numVertices: "1943"
+				 numFaces: "1682"
+				
+				
+	name: "Semi_Automatic_Pistol_LOD2_$AssimpFbx$_PreRotation"
+	
+		name: "Semi_Automatic_Pistol_LOD2_$AssimpFbx$_Rotation"
+		
+			name: "Semi_Automatic_Pistol_LOD2_$AssimpFbx$_GeometricRotation"
+			
+				name: "Semi_Automatic_Pistol_LOD2"
+				numMeshes: 1
+				 addr: "0x7f8961930e00"
+				 name: "Semi_Automatic_Pistol_LOD2"
+				 numVertices: "1125"
+				 numFaces: "824"
+				
+				
+	name: "Semi_Automatic_Pistol_LOD3_$AssimpFbx$_PreRotation"
+	
+		name: "Semi_Automatic_Pistol_LOD3_$AssimpFbx$_Rotation"
+		
+			name: "Semi_Automatic_Pistol_LOD3_$AssimpFbx$_GeometricRotation"
+			
+				name: "Semi_Automatic_Pistol_LOD3"
+				numMeshes: 1
+				 addr: "0x7f895cdff400"
+				 name: "Semi_Automatic_Pistol_LOD3"
+				 numVertices: "260"
+				 numFaces: "148"
+				
+				
+
+[12:56:05.140714] [Import] [info] (th=437865) File loaded successfully
+[12:56:05.140716] [Import] [info] (th=437865) Meshes count: 4
+[12:56:05.140726] [Import] [info] (th=437865) Materials count: 4
+[12:56:05.140874] [Import] [info] (th=437865) Textures count (imported): 0
+[12:59:37.545145] [Import] [info] (th=437865) Importing from /Users/sergey/Downloads/FPS assets/Models/Weapons/FPWeapon/FBX/Assault_Rifle.FBX
+[12:59:37.617787] [Import] [info] (th=437865) Imported scene tree:
+name: "RootNode"
+
+	name: "BSP_rig_$AssimpFbx$_Translation"
+	
+		name: "BSP_rig_$AssimpFbx$_PreRotation"
+		
+			name: "BSP_rig_$AssimpFbx$_Rotation"
+			
+				name: "BSP_rig"
+				
+					name: "BSP_rig_Neck"
+					
+						name: "BSP_rig_Head"
+						
+							name: "BSP_rig_HeadTop"
+							
+					name: "BSP_rig_L_Shoulder"
+					
+						name: "BSP_rig_L_Arm"
+						
+							name: "BSP_rig_L_ForeArm"
+							
+								name: "BSP_rig_L_Hand"
+								
+									name: "BSP_rig_L_Finger1"
+									
+										name: "BSP_rig_L_Finger11"
+										
+											name: "BSP_rig_L_Finger12"
+											
+												name: "BSP_rig_L_Finger1Nub"
+												
+									name: "BSP_rig_L_Finger2"
+									
+										name: "BSP_rig_L_Finger21"
+										
+											name: "BSP_rig_L_Finger22"
+											
+												name: "BSP_rig_L_Finger2Nub"
+												
+									name: "BSP_rig_L_Finger3"
+									
+										name: "BSP_rig_L_Finger31"
+										
+											name: "BSP_rig_L_Finger32"
+											
+												name: "BSP_rig_L_Finger3Nub"
+												
+									name: "BSP_rig_L_Finger4"
+									
+										name: "BSP_rig_L_Finger41"
+										
+											name: "BSP_rig_L_Finger42"
+											
+												name: "BSP_rig_L_Finger4Nub"
+												
+									name: "BSP_rig_L_Finger5"
+									
+										name: "BSP_rig_L_Finger51"
+										
+											name: "BSP_rig_L_Finger52"
+											
+												name: "BSP_rig_L_Finger5Nub"
+												
+					name: "BSP_rig_RightShoulder"
+					
+						name: "BSP_rig_RightArm"
+						
+							name: "BSP_rig_RightForeArm"
+							
+								name: "BSP_rig_RightHand"
+								
+									name: "BSP_rig_R_Finger"
+									
+										name: "BSP_rig_R_Finger11"
+										
+											name: "BSP_rig_R_Finger12"
+											
+												name: "BSP_rig_R_Finger1Nub"
+												
+									name: "BSP_rig_R_Finger2"
+									
+										name: "BSP_rig_R_Finger21"
+										
+											name: "BSP_rig_R_Finger22"
+											
+												name: "BSP_rig_R_Finger2Nub"
+												
+									name: "BSP_rig_R_Finger3"
+									
+										name: "BSP_rig_R_Finger31"
+										
+											name: "BSP_rig_R_Finger32"
+											
+												name: "BSP_rig_R_Finger3Nub"
+												
+									name: "BSP_rig_R_Finger4"
+									
+										name: "BSP_rig_R_Finger41"
+										
+											name: "BSP_rig_R_Finger42"
+											
+												name: "BSP_rig_R_Finger4Nub"
+												
+									name: "BSP_rig_R_Finger5"
+									
+										name: "BSP_rig_R_Finger51"
+										
+											name: "BSP_rig_R_Finger52"
+											
+												name: "BSP_rig_R_Finger5Nub"
+												
+									name: "BSP_rig_Knife"
+									
+					name: "BSP_rig_Spine1"
+					
+					name: "BSP_rig_Gun"
+					
+						name: "BSP_rig_Clip"
+						
+							name: "BSP_rig_Bullet"
+							
+						name: "BSP_rig_Trigger"
+						
+						name: "FIRESPOT"
+						
+						name: "SMOKE"
+						
+	name: "Assault_Rifle_$AssimpFbx$_PreRotation"
+	
+		name: "Assault_Rifle"
+		numMeshes: 3
+		 addr: "0x7f895d1bda00"
+		 name: "Assault_Rifle"
+		 numVertices: "10005"
+		 numFaces: "7660"
+		
+		 addr: "0x7f8963ef4a00"
+		 name: "Assault_Rifle"
+		 numVertices: "26"
+		 numFaces: "24"
+		
+		 addr: "0x7f895d24e800"
+		 name: "Assault_Rifle"
+		 numVertices: "3799"
+		 numFaces: "4968"
+		
+		
+
+[12:59:37.617807] [Import] [info] (th=437865) File loaded successfully
+[12:59:37.617809] [Import] [info] (th=437865) Meshes count: 3
+[12:59:37.617811] [Import] [info] (th=437865) Materials count: 3
+[12:59:37.617932] [Import] [warning] (th=437865) Texture not found: /Users/sergey/Downloads/FPS assets/Models/Weapons/FPWeapon/FBX/../Textures/Assault_Rifle.png
+[12:59:37.619541] [Import] [warning] (th=437865) Texture not found: /Users/sergey/Downloads/FPS assets/Models/Weapons/FPWeapon/FBX/../Textures/hands.png
+[12:59:37.619684] [Import] [info] (th=437865) Textures count (imported): 5
+[13:03:15.059470] [Import] [info] (th=437865) Importing from /Users/sergey/Downloads/Hit Reaction (1).fbx
+[13:03:15.113787] [Import] [info] (th=437865) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+	name: "G_male_base"
+	numMeshes: 1
+	 addr: "0x7f8943739a00"
+	 name: "Mesh.001"
+	 numVertices: "12719"
+	 numFaces: "19252"
+	
+	
+
+[13:03:15.113798] [Import] [info] (th=437865) File loaded successfully
+[13:03:15.113801] [Import] [info] (th=437865) Meshes count: 1
+[13:03:15.113803] [Import] [info] (th=437865) Materials count: 1
+[13:03:15.113912] [Import] [warning] (th=437865) Texture not found: /Users/sergey/Downloads/E:/!_WORK/GAMEdev/Manu/Small_tasks/ManekenBase_texturing/Male_Base_fixed/ManekenBase_Texturing_BaseColor.png
+[13:03:15.114741] [Import] [warning] (th=437865) Texture not found: /Users/sergey/Downloads/E:/!_WORK/GAMEdev/Manu/Small_tasks/ManekenBase_texturing/Male_Base_fixed/ManekenBase_Texturing_Normal.png
+[13:03:15.114763] [Import] [info] (th=437865) Textures count (imported): 0
+[16:20:25.103330] [Import] [info] (th=437865) Importing from /Users/sergey/Downloads/Hit Reaction (2).fbx
+[16:20:25.150820] [Import] [info] (th=437865) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+	name: "G_male_base"
+	numMeshes: 1
+	 addr: "0x7f8960debe00"
+	 name: "Mesh.001"
+	 numVertices: "12719"
+	 numFaces: "19252"
+	
+	
+
+[16:20:25.150832] [Import] [info] (th=437865) File loaded successfully
+[16:20:25.152856] [Import] [info] (th=437865) Meshes count: 1
+[16:20:25.152859] [Import] [info] (th=437865) Materials count: 1
+[16:20:35.968111] [Import] [info] (th=437865) Importing from /Users/sergey/Downloads/Hit Reaction.fbx
+[16:20:36.033428] [Import] [info] (th=437865) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+	name: "G_male_base"
+	numMeshes: 1
+	 addr: "0x7f8961604000"
+	 name: "Mesh.001"
+	 numVertices: "12719"
+	 numFaces: "19252"
+	
+	
+
+[16:20:36.033441] [Import] [info] (th=437865) File loaded successfully
+[16:20:36.033444] [Import] [info] (th=437865) Meshes count: 1
+[16:20:36.033445] [Import] [info] (th=437865) Materials count: 1

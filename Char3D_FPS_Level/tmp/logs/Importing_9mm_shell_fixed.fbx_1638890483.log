@@ -1,0 +1,35 @@
+[18:21:23.978938] [Import] [info] (th=474431) Log level for 'Import' set to 'info'
+[18:21:23.979296] [Import] [info] (th=474431) Importing from /Users/sergey/Downloads/9mm_shell_fixed.fbx
+[18:21:23.981748] [Import] [info] (th=474431) Imported scene tree:
+name: "RootNode"
+
+	name: "9mm_shell"
+	numMeshes: 1
+	 addr: "0x7f9c3aa3b000"
+	 name: "Mesh"
+	 numVertices: "136"
+	 numFaces: "192"
+	
+	
+
+[18:21:23.981758] [Import] [info] (th=474431) File loaded successfully
+[18:21:23.981765] [Import] [info] (th=474431) Meshes count: 1
+[18:21:23.981767] [Import] [info] (th=474431) Materials count: 1
+[18:21:23.982185] [Import] [warning] (th=474431) It seems that scene structure is different
+[18:22:27.240360] [Import] [info] (th=474431) Importing from /Users/sergey/Downloads/9mm_shell_fixed.fbx
+[18:22:27.243741] [Import] [info] (th=474431) Imported scene tree:
+name: "RootNode"
+
+	name: "9mm_shell"
+	numMeshes: 1
+	 addr: "0x7f9c62a9c400"
+	 name: "Mesh"
+	 numVertices: "136"
+	 numFaces: "192"
+	
+	
+
+[18:22:27.243755] [Import] [info] (th=474431) File loaded successfully
+[18:22:27.243757] [Import] [info] (th=474431) Meshes count: 1
+[18:22:27.243758] [Import] [info] (th=474431) Materials count: 1
+[18:22:27.245479] [Import] [info] (th=474431) Textures count (imported): 0
