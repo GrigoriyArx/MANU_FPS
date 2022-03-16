@@ -1,0 +1,18 @@
+[13:04:09.321498] [Import] [info] (th=14492) Log level for 'Import' set to 'info'
+[13:04:09.322849] [Import] [info] (th=14492) Importing from C:\_GrigoriiWorks\MANU\ManuWorks\1st personal shooter\big_rock_ground.fbx
+[13:04:09.357496] [Import] [info] (th=14492) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane.008"
+	numMeshes: 1
+	 addr: "000001A0ADA6F040"
+	 name: "Plane.782"
+	 numVertices: "3716"
+	 numFaces: "5747"
+	
+	
+
+[13:04:09.357847] [Import] [info] (th=14492) File loaded successfully
+[13:04:09.357879] [Import] [info] (th=14492) Meshes count: 1
+[13:04:09.357906] [Import] [info] (th=14492) Materials count: 1
+[13:04:09.358766] [Import] [warning] (th=14492) It seems that scene structure is different

@@ -1,0 +1,34 @@
+[11:36:04.508946] [Import] [info] (th=8436) Log level for 'Import' set to 'info'
+[11:36:04.509083] [Import] [info] (th=8436) Importing from C:\_GrigoriiWorks\MANU\ManuWorks\1st personal shooter\LEvEL1_ground_and_rocks.fbx
+[11:36:04.513736] [Import] [info] (th=8436) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane.007"
+	numMeshes: 1
+	 addr: "0000020C55C205B0"
+	 name: "Plane.781"
+	 numVertices: "615"
+	 numFaces: "987"
+	
+	
+	name: "Plane.008"
+	numMeshes: 1
+	 addr: "0000020C55C1FB10"
+	 name: "Plane.782"
+	 numVertices: "612"
+	 numFaces: "827"
+	
+	
+	name: "Cube.021"
+	numMeshes: 1
+	 addr: "0000020C52D9A560"
+	 name: "Cube.088"
+	 numVertices: "32"
+	 numFaces: "16"
+	
+	
+
+[11:36:04.513774] [Import] [info] (th=8436) File loaded successfully
+[11:36:04.513798] [Import] [info] (th=8436) Meshes count: 3
+[11:36:04.513823] [Import] [info] (th=8436) Materials count: 1
+[11:36:04.513958] [Import] [info] (th=8436) Textures count (imported): 0

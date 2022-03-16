@@ -1,0 +1,52 @@
+[11:47:15.264433] [Import] [info] (th=14640) Log level for 'Import' set to 'info'
+[11:47:15.265107] [Import] [info] (th=14640) Importing from C:\_GrigoriiWorks\MANU\ManuWorks\1st personal shooter\big_rock_ground.fbx
+[11:47:15.290668] [Import] [info] (th=14640) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane.008"
+	numMeshes: 1
+	 addr: "0000019A23A18050"
+	 name: "Plane.041"
+	 numVertices: "2554"
+	 numFaces: "2908"
+	
+	
+
+[11:47:15.290747] [Import] [info] (th=14640) File loaded successfully
+[11:47:15.290812] [Import] [info] (th=14640) Meshes count: 1
+[11:47:15.290877] [Import] [info] (th=14640) Materials count: 1
+[11:47:15.291234] [Import] [warning] (th=14640) It seems that scene structure is different
+[11:48:07.280237] [Import] [info] (th=14640) Importing from C:\_GrigoriiWorks\MANU\ManuWorks\1st personal shooter\big_rock_ground.fbx
+[11:48:07.292649] [Import] [info] (th=14640) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane.008"
+	numMeshes: 1
+	 addr: "0000019A23A19590"
+	 name: "Plane.041"
+	 numVertices: "2471"
+	 numFaces: "2894"
+	
+	
+
+[11:48:07.292698] [Import] [info] (th=14640) File loaded successfully
+[11:48:07.292740] [Import] [info] (th=14640) Meshes count: 1
+[11:48:07.292786] [Import] [info] (th=14640) Materials count: 1
+[11:48:07.293053] [Import] [warning] (th=14640) It seems that scene structure is different
+[12:07:40.032244] [Import] [info] (th=14640) Importing from C:\_GrigoriiWorks\MANU\ManuWorks\1st personal shooter\big_rock_ground.fbx
+[12:07:40.086625] [Import] [info] (th=14640) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane.008"
+	numMeshes: 1
+	 addr: "0000019A23A1A030"
+	 name: "Plane.782"
+	 numVertices: "3882"
+	 numFaces: "5988"
+	
+	
+
+[12:07:40.086663] [Import] [info] (th=14640) File loaded successfully
+[12:07:40.086695] [Import] [info] (th=14640) Meshes count: 1
+[12:07:40.086720] [Import] [info] (th=14640) Materials count: 1
+[12:07:40.088065] [Import] [warning] (th=14640) It seems that scene structure is different
