@@ -1,0 +1,225 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "3E49872C-35B8-4755-A966-AFE5B32481FF"
+            },
+            "name": "Muzzle Flash",
+            "enabled": false,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "3700F4DF-2E98-4D3A-809E-F0EF072E04B3"
+                },
+                "static": false,
+                "shadowCast": false,
+                "shadowReceive": false
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "9F9FDF38-11D6-48CA-914A-324FD29B2638"
+                }
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        0.5,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -0.5,
+                        -4.371138828673793e-8,
+                        0.0,
+                        0.0,
+                        4.371138828673793e-8,
+                        -0.5,
+                        0.0,
+                        0.5649855136871338,
+                        3.220418930053711,
+                        -0.18916364014148713,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -0.00008630752563476563,
+                        1.3034906487519038e-11,
+                        0.2499999850988388,
+                        0.0,
+                        -0.24999995529651643,
+                        3.8741028163258309e-8,
+                        -0.0000863075110828504,
+                        0.0,
+                        -3.8741028163258309e-8,
+                        -0.2499999701976776,
+                        -3.4533313708617899e-13,
+                        0.0,
+                        1.6849311590194703,
+                        2.363471508026123,
+                        0.22859124839305879,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        },
+        "children": [
+            "58EE3BC9-7848-4669-BD06-DABCB243E265",
+            "1E3E9831-279C-4D5E-8C33-18E105581E50"
+        ]
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "58EE3BC9-7848-4669-BD06-DABCB243E265"
+            },
+            "name": "Point light",
+            "enabled": false,
+            "visible": true,
+            "hitVisible": true,
+            "light": {
+                "@class": "BaseComponentLight",
+                "lightId": {
+                    "uuid": "15C6D9AC-EFD2-4418-BB89-5879E36C1E92"
+                }
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        2.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -2.0,
+                        1.7484555314695172e-7,
+                        0.0,
+                        0.0,
+                        -1.7484555314695172e-7,
+                        -2.0,
+                        0.0,
+                        0.0,
+                        0.34085845947265627,
+                        -0.8468056321144104,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -0.00017261505126953125,
+                        2.6069812975038077e-11,
+                        0.4999999701976776,
+                        0.0,
+                        0.49999991059303286,
+                        -1.2119343750782719e-7,
+                        0.0001726150221657008,
+                        0.0,
+                        1.2119343750782719e-7,
+                        0.4999999403953552,
+                        1.5781150691784874e-11,
+                        0.0,
+                        1.5997165441513062,
+                        2.5751729011535646,
+                        0.22856183350086213,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        }
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "1E3E9831-279C-4D5E-8C33-18E105581E50"
+            },
+            "name": "Bullet Path",
+            "enabled": false,
+            "visible": true,
+            "hitVisible": true,
+            "colliders": [
+                {
+                    "@class": "BaseComponentCollider",
+                    "colliderId": {
+                        "uuid": "46953F6E-EC08-40F3-AF65-991B8C34F0FE"
+                    }
+                }
+            ],
+            "rigidBody": {
+                "@class": "BaseComponentPhysBody",
+                "rigidBodyId": {
+                    "uuid": "8BDB4309-85B7-45B8-92D4-45D94DAF2826"
+                },
+                "isEnabled": true
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        0.20000000298023225,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -99.98999786376953,
+                        0.000008741403689782601,
+                        0.0,
+                        0.0,
+                        -1.7484556025237908e-8,
+                        -0.20000000298023225,
+                        0.0,
+                        0.0,
+                        -49.77564239501953,
+                        0.0000073015689849853519,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -0.000017261505490751007,
+                        2.6069812541357207e-12,
+                        0.04999999701976776,
+                        0.0,
+                        24.997495651245118,
+                        -0.000006059065981389722,
+                        0.00862988829612732,
+                        0.0,
+                        1.2119343750782719e-8,
+                        0.04999999329447746,
+                        1.5781151342306177e-12,
+                        0.0,
+                        14.128839492797852,
+                        2.3634676933288576,
+                        0.23288725316524507,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        }
+    }
+]
