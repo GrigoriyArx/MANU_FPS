@@ -1,0 +1,63 @@
+[16:58:33.655001] [Import] [info] (th=13068) Log level for 'Import' set to 'info'
+[16:58:33.655209] [Import] [info] (th=13068) Importing from C:\_GrigoriiWorks\MANU\ManuWorks\1st personal shooter\HANDs_And_Pistol\ARMS_EXPORT2\GUN_shot.fbx
+[16:58:33.670882] [Import] [info] (th=13068) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Base"
+		
+			name: "piston2"
+			
+			name: "piston1"
+			
+			name: "shutter"
+			
+			name: "Round_piston"
+			
+			name: "ammo"
+			
+			name: "trigger"
+			
+			name: "Fire"
+			
+
+[16:58:33.670917] [Import] [info] (th=13068) File loaded successfully
+[16:58:33.670942] [Import] [info] (th=13068) Meshes count: 0
+[16:58:33.670972] [Import] [info] (th=13068) Materials count: 0
+[16:58:33.671332] [Import] [error] (th=13068) Cannot find node: Armature
+[16:58:33.671386] [Import] [error] (th=13068) Cannot find node: Base
+[16:58:33.671440] [Import] [error] (th=13068) Cannot find node: Fire
+[16:58:33.671494] [Import] [error] (th=13068) Cannot find node: Round_piston
+[16:58:33.671547] [Import] [error] (th=13068) Cannot find node: ammo
+[16:58:33.671605] [Import] [error] (th=13068) Cannot find node: piston1
+[16:58:33.671659] [Import] [error] (th=13068) Cannot find node: piston2
+[16:58:33.671714] [Import] [error] (th=13068) Cannot find node: shutter
+[16:58:33.671775] [Import] [error] (th=13068) Cannot find node: trigger
+[16:58:33.671812] [Import] [error] (th=13068) File's animations are incompatible with the selected MANU's node
+[16:58:49.790104] [Import] [info] (th=13068) Importing from C:\_GrigoriiWorks\MANU\ManuWorks\1st personal shooter\HANDs_And_Pistol\ARMS_EXPORT2\GUN_shot.fbx
+[16:58:49.792712] [Import] [info] (th=13068) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Base"
+		
+			name: "piston2"
+			
+			name: "piston1"
+			
+			name: "shutter"
+			
+			name: "Round_piston"
+			
+			name: "ammo"
+			
+			name: "trigger"
+			
+			name: "Fire"
+			
+
+[16:58:49.792747] [Import] [info] (th=13068) File loaded successfully
+[16:58:49.792774] [Import] [info] (th=13068) Meshes count: 0
+[16:58:49.792801] [Import] [info] (th=13068) Materials count: 0

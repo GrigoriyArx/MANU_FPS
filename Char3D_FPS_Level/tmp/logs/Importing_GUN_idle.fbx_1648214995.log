@@ -1,0 +1,667 @@
+[17:29:55.428804] [Import] [info] (th=15728) Log level for 'Import' set to 'info'
+[17:29:55.429641] [Import] [info] (th=15728) Importing from C:\_GrigoriiWorks\MANU\ManuWorks\1st personal shooter\HANDs_And_Pistol\ARMS_EXPORT2\GUN_idle.fbx
+[17:29:55.449798] [Import] [info] (th=15728) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Base"
+		
+			name: "piston2"
+			
+			name: "piston1"
+			
+			name: "shutter"
+			
+			name: "Round_piston"
+			
+			name: "ammo"
+			
+			name: "trigger"
+			
+			name: "Fire"
+			
+
+[17:29:55.449832] [Import] [info] (th=15728) File loaded successfully
+[17:29:55.449863] [Import] [info] (th=15728) Meshes count: 0
+[17:29:55.449893] [Import] [info] (th=15728) Materials count: 0
+[17:29:59.263712] [Import] [info] (th=15728) Importing from C:\_GrigoriiWorks\MANU\ManuWorks\1st personal shooter\HANDs_And_Pistol\ARMS_EXPORT2\GUN_Reload.fbx
+[17:29:59.267035] [Import] [info] (th=15728) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Base"
+		
+			name: "piston2"
+			
+			name: "piston1"
+			
+			name: "shutter"
+			
+			name: "Round_piston"
+			
+			name: "ammo"
+			
+			name: "trigger"
+			
+			name: "Fire"
+			
+
+[17:29:59.267082] [Import] [info] (th=15728) File loaded successfully
+[17:29:59.267116] [Import] [info] (th=15728) Meshes count: 0
+[17:29:59.267150] [Import] [info] (th=15728) Materials count: 0
+[17:30:02.688824] [Import] [info] (th=15728) Importing from C:\_GrigoriiWorks\MANU\ManuWorks\1st personal shooter\HANDs_And_Pistol\ARMS_EXPORT2\GUN_shot.fbx
+[17:30:02.692418] [Import] [info] (th=15728) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Base"
+		
+			name: "piston2"
+			
+			name: "piston1"
+			
+			name: "shutter"
+			
+			name: "Round_piston"
+			
+			name: "ammo"
+			
+			name: "trigger"
+			
+			name: "Fire"
+			
+
+[17:30:02.692465] [Import] [info] (th=15728) File loaded successfully
+[17:30:02.692497] [Import] [info] (th=15728) Meshes count: 0
+[17:30:02.692530] [Import] [info] (th=15728) Materials count: 0
+[17:30:05.801320] [Import] [info] (th=15728) Importing from C:\_GrigoriiWorks\MANU\ManuWorks\1st personal shooter\HANDs_And_Pistol\ARMS_EXPORT2\GUN_Walk.fbx
+[17:30:05.804555] [Import] [info] (th=15728) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Base"
+		
+			name: "piston2"
+			
+			name: "piston1"
+			
+			name: "shutter"
+			
+			name: "Round_piston"
+			
+			name: "ammo"
+			
+			name: "trigger"
+			
+			name: "Fire"
+			
+
+[17:30:05.804593] [Import] [info] (th=15728) File loaded successfully
+[17:30:05.804619] [Import] [info] (th=15728) Meshes count: 0
+[17:30:05.804644] [Import] [info] (th=15728) Materials count: 0
+[17:30:46.976868] [Import] [info] (th=15728) Importing from C:\_GrigoriiWorks\MANU\ManuWorks\1st personal shooter\HANDs_And_Pistol\ARMS_EXPORT2\HANDS_idle.fbx
+[17:30:46.996816] [Import] [info] (th=15728) Imported scene tree:
+name: "RootNode"
+
+	name: "metarig"
+	
+		name: "neck"
+		
+			name: "head"
+			
+			name: "soulder_L"
+			
+				name: "upper_arm_L"
+				
+					name: "forearm.L"
+					
+						name: "hand.L"
+						
+							name: "palm_ind_L"
+							
+								name: "f_index1_L"
+								
+									name: "f_index2_L"
+									
+										name: "f_index3_L"
+										
+								name: "f_ind__knuckles_L"
+								
+							name: "palm_mid_L"
+							
+								name: "f_middle1_L"
+								
+									name: "f_middle2_L"
+									
+										name: "f_middle3_L"
+										
+								name: "f_mid_knuckles_L"
+								
+							name: "palm_ring_L"
+							
+								name: "f_ring1_L"
+								
+									name: "f_ring2_L"
+									
+										name: "f_ring3_L"
+										
+								name: "f_ring_knuckles_L"
+								
+							name: "palm_lit_L"
+							
+								name: "f_pinky1_L"
+								
+									name: "f_pinky2_L"
+									
+										name: "f_pinky3_L"
+										
+								name: "f_pinky_knuckles_L"
+								
+							name: "thumb0_L"
+							
+								name: "thumb1_L"
+								
+									name: "thumb2_L"
+									
+										name: "thumb3_L"
+										
+						name: "forearmTwist2_L"
+						
+						name: "forearmTwist_L"
+						
+			name: "soulder_R"
+			
+				name: "upper_arm_R"
+				
+					name: "forearm.R"
+					
+						name: "hand.R"
+						
+							name: "palm_ind_R"
+							
+								name: "f_index1_R"
+								
+									name: "f_index2_R"
+									
+										name: "f_index3_R"
+										
+								name: "f_ind__knuckles_R"
+								
+							name: "palm_mid_R"
+							
+								name: "f_middle1_R"
+								
+									name: "f_middle2_R"
+									
+										name: "f_middle3_R"
+										
+								name: "f_mid_knuckles_R"
+								
+							name: "palm_ring_R"
+							
+								name: "f_ring1_R"
+								
+									name: "f_ring2_R"
+									
+										name: "f_ring3_R"
+										
+								name: "f_ring_knuckles_R"
+								
+							name: "palm_lit_R"
+							
+								name: "f_pinky1_R"
+								
+									name: "f_pinky2_R"
+									
+										name: "f_pinky3_R"
+										
+								name: "f_pinky_knuckles_R"
+								
+							name: "thumb0_R"
+							
+								name: "thumb1_R"
+								
+									name: "thumb2_R"
+									
+										name: "thumb3_R"
+										
+						name: "forearmTwist2_R"
+						
+						name: "forearmTwist_R"
+						
+
+[17:30:46.996888] [Import] [info] (th=15728) File loaded successfully
+[17:30:46.996930] [Import] [info] (th=15728) Meshes count: 0
+[17:30:46.996963] [Import] [info] (th=15728) Materials count: 0
+[17:30:50.656957] [Import] [info] (th=15728) Importing from C:\_GrigoriiWorks\MANU\ManuWorks\1st personal shooter\HANDs_And_Pistol\ARMS_EXPORT2\HANDS_Reload.fbx
+[17:30:50.677184] [Import] [info] (th=15728) Imported scene tree:
+name: "RootNode"
+
+	name: "metarig"
+	
+		name: "neck"
+		
+			name: "head"
+			
+			name: "soulder_L"
+			
+				name: "upper_arm_L"
+				
+					name: "forearm.L"
+					
+						name: "hand.L"
+						
+							name: "palm_ind_L"
+							
+								name: "f_index1_L"
+								
+									name: "f_index2_L"
+									
+										name: "f_index3_L"
+										
+								name: "f_ind__knuckles_L"
+								
+							name: "palm_mid_L"
+							
+								name: "f_middle1_L"
+								
+									name: "f_middle2_L"
+									
+										name: "f_middle3_L"
+										
+								name: "f_mid_knuckles_L"
+								
+							name: "palm_ring_L"
+							
+								name: "f_ring1_L"
+								
+									name: "f_ring2_L"
+									
+										name: "f_ring3_L"
+										
+								name: "f_ring_knuckles_L"
+								
+							name: "palm_lit_L"
+							
+								name: "f_pinky1_L"
+								
+									name: "f_pinky2_L"
+									
+										name: "f_pinky3_L"
+										
+								name: "f_pinky_knuckles_L"
+								
+							name: "thumb0_L"
+							
+								name: "thumb1_L"
+								
+									name: "thumb2_L"
+									
+										name: "thumb3_L"
+										
+						name: "forearmTwist2_L"
+						
+						name: "forearmTwist_L"
+						
+			name: "soulder_R"
+			
+				name: "upper_arm_R"
+				
+					name: "forearm.R"
+					
+						name: "hand.R"
+						
+							name: "palm_ind_R"
+							
+								name: "f_index1_R"
+								
+									name: "f_index2_R"
+									
+										name: "f_index3_R"
+										
+								name: "f_ind__knuckles_R"
+								
+							name: "palm_mid_R"
+							
+								name: "f_middle1_R"
+								
+									name: "f_middle2_R"
+									
+										name: "f_middle3_R"
+										
+								name: "f_mid_knuckles_R"
+								
+							name: "palm_ring_R"
+							
+								name: "f_ring1_R"
+								
+									name: "f_ring2_R"
+									
+										name: "f_ring3_R"
+										
+								name: "f_ring_knuckles_R"
+								
+							name: "palm_lit_R"
+							
+								name: "f_pinky1_R"
+								
+									name: "f_pinky2_R"
+									
+										name: "f_pinky3_R"
+										
+								name: "f_pinky_knuckles_R"
+								
+							name: "thumb0_R"
+							
+								name: "thumb1_R"
+								
+									name: "thumb2_R"
+									
+										name: "thumb3_R"
+										
+						name: "forearmTwist2_R"
+						
+						name: "forearmTwist_R"
+						
+
+[17:30:50.677224] [Import] [info] (th=15728) File loaded successfully
+[17:30:50.677248] [Import] [info] (th=15728) Meshes count: 0
+[17:30:50.677274] [Import] [info] (th=15728) Materials count: 0
+[17:30:54.783138] [Import] [info] (th=15728) Importing from C:\_GrigoriiWorks\MANU\ManuWorks\1st personal shooter\HANDs_And_Pistol\ARMS_EXPORT2\HANDS_shot.fbx
+[17:30:54.804999] [Import] [info] (th=15728) Imported scene tree:
+name: "RootNode"
+
+	name: "metarig"
+	
+		name: "neck"
+		
+			name: "head"
+			
+			name: "soulder_L"
+			
+				name: "upper_arm_L"
+				
+					name: "forearm.L"
+					
+						name: "hand.L"
+						
+							name: "palm_ind_L"
+							
+								name: "f_index1_L"
+								
+									name: "f_index2_L"
+									
+										name: "f_index3_L"
+										
+								name: "f_ind__knuckles_L"
+								
+							name: "palm_mid_L"
+							
+								name: "f_middle1_L"
+								
+									name: "f_middle2_L"
+									
+										name: "f_middle3_L"
+										
+								name: "f_mid_knuckles_L"
+								
+							name: "palm_ring_L"
+							
+								name: "f_ring1_L"
+								
+									name: "f_ring2_L"
+									
+										name: "f_ring3_L"
+										
+								name: "f_ring_knuckles_L"
+								
+							name: "palm_lit_L"
+							
+								name: "f_pinky1_L"
+								
+									name: "f_pinky2_L"
+									
+										name: "f_pinky3_L"
+										
+								name: "f_pinky_knuckles_L"
+								
+							name: "thumb0_L"
+							
+								name: "thumb1_L"
+								
+									name: "thumb2_L"
+									
+										name: "thumb3_L"
+										
+						name: "forearmTwist2_L"
+						
+						name: "forearmTwist_L"
+						
+			name: "soulder_R"
+			
+				name: "upper_arm_R"
+				
+					name: "forearm.R"
+					
+						name: "hand.R"
+						
+							name: "palm_ind_R"
+							
+								name: "f_index1_R"
+								
+									name: "f_index2_R"
+									
+										name: "f_index3_R"
+										
+								name: "f_ind__knuckles_R"
+								
+							name: "palm_mid_R"
+							
+								name: "f_middle1_R"
+								
+									name: "f_middle2_R"
+									
+										name: "f_middle3_R"
+										
+								name: "f_mid_knuckles_R"
+								
+							name: "palm_ring_R"
+							
+								name: "f_ring1_R"
+								
+									name: "f_ring2_R"
+									
+										name: "f_ring3_R"
+										
+								name: "f_ring_knuckles_R"
+								
+							name: "palm_lit_R"
+							
+								name: "f_pinky1_R"
+								
+									name: "f_pinky2_R"
+									
+										name: "f_pinky3_R"
+										
+								name: "f_pinky_knuckles_R"
+								
+							name: "thumb0_R"
+							
+								name: "thumb1_R"
+								
+									name: "thumb2_R"
+									
+										name: "thumb3_R"
+										
+						name: "forearmTwist2_R"
+						
+						name: "forearmTwist_R"
+						
+
+[17:30:54.805038] [Import] [info] (th=15728) File loaded successfully
+[17:30:54.805063] [Import] [info] (th=15728) Meshes count: 0
+[17:30:54.805087] [Import] [info] (th=15728) Materials count: 0
+[17:30:57.848138] [Import] [info] (th=15728) Importing from C:\_GrigoriiWorks\MANU\ManuWorks\1st personal shooter\HANDs_And_Pistol\ARMS_EXPORT2\HANDS_walk.fbx
+[17:30:57.867363] [Import] [info] (th=15728) Imported scene tree:
+name: "RootNode"
+
+	name: "metarig"
+	
+		name: "neck"
+		
+			name: "head"
+			
+			name: "soulder_L"
+			
+				name: "upper_arm_L"
+				
+					name: "forearm.L"
+					
+						name: "hand.L"
+						
+							name: "palm_ind_L"
+							
+								name: "f_index1_L"
+								
+									name: "f_index2_L"
+									
+										name: "f_index3_L"
+										
+								name: "f_ind__knuckles_L"
+								
+							name: "palm_mid_L"
+							
+								name: "f_middle1_L"
+								
+									name: "f_middle2_L"
+									
+										name: "f_middle3_L"
+										
+								name: "f_mid_knuckles_L"
+								
+							name: "palm_ring_L"
+							
+								name: "f_ring1_L"
+								
+									name: "f_ring2_L"
+									
+										name: "f_ring3_L"
+										
+								name: "f_ring_knuckles_L"
+								
+							name: "palm_lit_L"
+							
+								name: "f_pinky1_L"
+								
+									name: "f_pinky2_L"
+									
+										name: "f_pinky3_L"
+										
+								name: "f_pinky_knuckles_L"
+								
+							name: "thumb0_L"
+							
+								name: "thumb1_L"
+								
+									name: "thumb2_L"
+									
+										name: "thumb3_L"
+										
+						name: "forearmTwist2_L"
+						
+						name: "forearmTwist_L"
+						
+			name: "soulder_R"
+			
+				name: "upper_arm_R"
+				
+					name: "forearm.R"
+					
+						name: "hand.R"
+						
+							name: "palm_ind_R"
+							
+								name: "f_index1_R"
+								
+									name: "f_index2_R"
+									
+										name: "f_index3_R"
+										
+								name: "f_ind__knuckles_R"
+								
+							name: "palm_mid_R"
+							
+								name: "f_middle1_R"
+								
+									name: "f_middle2_R"
+									
+										name: "f_middle3_R"
+										
+								name: "f_mid_knuckles_R"
+								
+							name: "palm_ring_R"
+							
+								name: "f_ring1_R"
+								
+									name: "f_ring2_R"
+									
+										name: "f_ring3_R"
+										
+								name: "f_ring_knuckles_R"
+								
+							name: "palm_lit_R"
+							
+								name: "f_pinky1_R"
+								
+									name: "f_pinky2_R"
+									
+										name: "f_pinky3_R"
+										
+								name: "f_pinky_knuckles_R"
+								
+							name: "thumb0_R"
+							
+								name: "thumb1_R"
+								
+									name: "thumb2_R"
+									
+										name: "thumb3_R"
+										
+						name: "forearmTwist2_R"
+						
+						name: "forearmTwist_R"
+						
+
+[17:30:57.867420] [Import] [info] (th=15728) File loaded successfully
+[17:30:57.867445] [Import] [info] (th=15728) Meshes count: 0
+[17:30:57.867471] [Import] [info] (th=15728) Materials count: 0
+[17:44:15.635518] [Import] [info] (th=15728) Importing from C:\_GrigoriiWorks\MANU\ManuWorks\1st personal shooter\HANDs_And_Pistol\ARMS_EXPORT2\GUN_Reload.fbx
+[17:44:15.663038] [Import] [info] (th=15728) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Base"
+		
+			name: "piston2"
+			
+			name: "piston1"
+			
+			name: "shutter"
+			
+			name: "Round_piston"
+			
+			name: "ammo"
+			
+			name: "trigger"
+			
+			name: "Fire"
+			
+
+[17:44:15.663082] [Import] [info] (th=15728) File loaded successfully
+[17:44:15.663110] [Import] [info] (th=15728) Meshes count: 0
+[17:44:15.663143] [Import] [info] (th=15728) Materials count: 0
