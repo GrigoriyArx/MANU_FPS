@@ -1,0 +1,14 @@
+{
+    "@class": "KeyTrigger",
+    "id": {
+        "uuid": "BDCB5F03-644B-4C2E-84B8-87E5A22963A7"
+    },
+    "ownerScriptId": {
+        "uuid": "5333373A-5083-456C-8C39-DF3E8E8F88CC"
+    },
+    "logicOperation": 1,
+    "resultType": 0,
+    "isInverted": false,
+    "keyCode": 18,
+    "state": 1
+}

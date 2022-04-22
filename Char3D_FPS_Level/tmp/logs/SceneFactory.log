@@ -70,3 +70,5 @@
 [15:04:05.133173] [SceneFactory] [info] (th=1925018) Log level for 'SceneFactory' set to 'info'
 [13:48:41.591748] [SceneFactory] [info] (th=1158865) Log level for 'SceneFactory' set to 'info'
 [13:48:41.591825] [SceneFactory] [info] (th=1158865) GhostObject is created: id: 8F5774E2-6630-48D1-8EAF-03D6EB250542
+[15:03:33.209162] [SceneFactory] [info] (th=1904028) Log level for 'SceneFactory' set to 'info'
+[15:03:33.215860] [SceneFactory] [info] (th=1904028) StateMachine is created: id: 29628777-206F-40A3-B372-F4A43B5DAF58
