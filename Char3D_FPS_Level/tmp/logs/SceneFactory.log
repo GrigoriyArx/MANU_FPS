@@ -72,3 +72,11 @@
 [13:48:41.591825] [SceneFactory] [info] (th=1158865) GhostObject is created: id: 8F5774E2-6630-48D1-8EAF-03D6EB250542
 [15:03:33.209162] [SceneFactory] [info] (th=1904028) Log level for 'SceneFactory' set to 'info'
 [15:03:33.215860] [SceneFactory] [info] (th=1904028) StateMachine is created: id: 29628777-206F-40A3-B372-F4A43B5DAF58
+[18:28:19.259691] [SceneFactory] [info] (th=2080556) Log level for 'SceneFactory' set to 'info'
+[18:30:24.975404] [SceneFactory] [info] (th=2080556) StateMachine is created: id: 7D583497-AA41-46E0-967B-E504F33759AF
+[18:52:01.984841] [SceneFactory] [info] (th=2080556) Plane is created: id: 7097322B-48F6-46CA-85D5-21A3A79347BE
+[20:04:56.347429] [SceneFactory] [info] (th=2080556) Sphere is created: id: 2D77EE17-8B9A-4EF4-B7E1-BD5644D289EF
+[20:13:52.957199] [SceneFactory] [info] (th=2080556) Box is created: id: ED4702EF-4590-490B-B0D0-ED1BAEE32144
+[20:31:24.659936] [SceneFactory] [info] (th=2080556) Sphere is created: id: 86856F57-3880-4F54-B9B2-36591CCC2BB2
+[21:02:33.097404] [SceneFactory] [info] (th=2174394) Log level for 'SceneFactory' set to 'info'
+[21:03:15.866141] [SceneFactory] [info] (th=2174394) Box is created: id: D4AEEE8E-4D41-4373-B62D-4ECE2CD7AA8C

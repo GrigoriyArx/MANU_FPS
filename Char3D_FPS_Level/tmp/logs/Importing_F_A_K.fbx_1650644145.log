@@ -1,0 +1,18 @@
+[19:15:45.469469] [Import] [info] (th=2080556) Log level for 'Import' set to 'info'
+[19:15:45.469859] [Import] [info] (th=2080556) Importing from /Users/sergey/Downloads/F_A_K/F_A_K.fbx
+[19:15:45.486236] [Import] [info] (th=2080556) Imported scene tree:
+name: "RootNode"
+
+	name: "F_A_K"
+	numMeshes: 1
+	 addr: "0x7ff5d863ac00"
+	 name: "Cube.014"
+	 numVertices: "1193"
+	 numFaces: "960"
+	
+	
+
+[19:15:45.486247] [Import] [info] (th=2080556) File loaded successfully
+[19:15:45.486250] [Import] [info] (th=2080556) Meshes count: 1
+[19:15:45.486252] [Import] [info] (th=2080556) Materials count: 1
+[19:15:45.486788] [Import] [info] (th=2080556) Textures count (imported): 0
