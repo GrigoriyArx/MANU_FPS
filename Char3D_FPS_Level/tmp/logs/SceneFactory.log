@@ -80,3 +80,5 @@
 [20:31:24.659936] [SceneFactory] [info] (th=2080556) Sphere is created: id: 86856F57-3880-4F54-B9B2-36591CCC2BB2
 [21:02:33.097404] [SceneFactory] [info] (th=2174394) Log level for 'SceneFactory' set to 'info'
 [21:03:15.866141] [SceneFactory] [info] (th=2174394) Box is created: id: D4AEEE8E-4D41-4373-B62D-4ECE2CD7AA8C
+[18:30:04.332266] [SceneFactory] [info] (th=2314452) Log level for 'SceneFactory' set to 'info'
+[18:30:04.333543] [SceneFactory] [info] (th=2314452) StateMachine is created: id: 8A209858-9B85-437E-95B1-992005A494F3
