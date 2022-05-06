@@ -1,0 +1,48 @@
+[18:11:31.755451] [Import] [info] (th=20616) Log level for 'Import' set to 'info'
+[18:11:31.755560] [Import] [info] (th=20616) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\Lights_Panel_Screen_Bottom.fbx
+[18:11:31.759201] [Import] [info] (th=20616) Imported scene tree:
+name: "RootNode"
+
+	name: "Level1_retopo3.034"
+	numMeshes: 2
+	 addr: "0000017E52056010"
+	 name: "Plane.097"
+	 numVertices: "96"
+	 numFaces: "104"
+	
+	 addr: "0000017E83C6B590"
+	 name: "Plane.097"
+	 numVertices: "29"
+	 numFaces: "24"
+	
+	
+
+[18:11:31.759267] [Import] [info] (th=20616) File loaded successfully
+[18:11:31.759320] [Import] [info] (th=20616) Meshes count: 2
+[18:11:31.759373] [Import] [info] (th=20616) Materials count: 2
+[18:11:31.759814] [Import] [warning] (th=20616) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Molding_00\Molding_00_Tex1024\Molding00_DefaultMaterial_BaseColor.png
+[18:11:31.760133] [Import] [warning] (th=20616) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Molding_00\Molding_00_Tex1024\Molding00_DefaultMaterial_Normal_OGL.png
+[18:11:31.760511] [Import] [warning] (th=20616) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\LightsPanel_00\LightsPanel_00_Tex1024\LightsPanel_00_DefaultMaterial_BaseColor.png
+[18:11:31.760675] [Import] [warning] (th=20616) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\LightsPanel_00\LightsPanel_00_Tex1024\LightsPanel_00_DefaultMaterial_Normal_OGL.png
+[18:11:31.760850] [Import] [warning] (th=20616) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\LightsPanel_00\LightsPanel_00_Tex1024\LightsPanel_00_DefaultMaterial_Emissive.png
+[18:11:31.760932] [Import] [info] (th=20616) Textures count (imported): 0
+[18:40:38.107568] [Import] [info] (th=20616) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\Terminal_Screen.fbx
+[18:40:38.110679] [Import] [info] (th=20616) Imported scene tree:
+name: "RootNode"
+
+	name: "CompBig.002"
+	numMeshes: 1
+	 addr: "0000017ED18E8CC0"
+	 name: "Cube.001"
+	 numVertices: "420"
+	 numFaces: "362"
+	
+	
+
+[18:40:38.110740] [Import] [info] (th=20616) File loaded successfully
+[18:40:38.110795] [Import] [info] (th=20616) Meshes count: 1
+[18:40:38.110849] [Import] [info] (th=20616) Materials count: 1
+[18:40:38.111215] [Import] [warning] (th=20616) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_09_comp\Panel_09_comp_Tex1024\Panel_09comp_DefaultMaterial_BaseColor.png
+[18:40:38.111413] [Import] [warning] (th=20616) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_09_comp\Panel_09_comp_Tex1024\Panel_09comp_DefaultMaterial_Normal_OGL.png
+[18:40:38.111582] [Import] [warning] (th=20616) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_09_comp\Panel_09_comp_Tex1024\Panel_09comp_DefaultMaterial_Emissive.png
+[18:40:38.111692] [Import] [info] (th=20616) Textures count (imported): 0

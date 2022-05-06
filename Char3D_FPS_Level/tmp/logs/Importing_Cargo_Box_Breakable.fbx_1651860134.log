@@ -1,0 +1,97 @@
+[21:02:14.592473] [Import] [info] (th=16688) Log level for 'Import' set to 'info'
+[21:02:14.592598] [Import] [info] (th=16688) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\Cargo_Box_Breakable.fbx
+[21:02:14.598598] [Import] [info] (th=16688) Imported scene tree:
+name: "RootNode"
+
+	name: "Cargo"
+	numMeshes: 1
+	 addr: "0000026B4A79BF30"
+	 name: "Cube.002"
+	 numVertices: "42"
+	 numFaces: "30"
+	
+	
+		name: "Top"
+		numMeshes: 1
+		 addr: "0000026B4858E350"
+		 name: "Cube.003"
+		 numVertices: "134"
+		 numFaces: "103"
+		
+		
+			name: "Plane"
+			numMeshes: 1
+			 addr: "0000026B4C0D86B0"
+			 name: "Plane"
+			 numVertices: "4"
+			 numFaces: "2"
+			
+			
+		name: "Plane.004"
+		numMeshes: 1
+		 addr: "0000026B0646F020"
+		 name: "Plane.006"
+		 numVertices: "12"
+		 numFaces: "6"
+		
+		
+		name: "Plane.005"
+		numMeshes: 1
+		 addr: "0000026B49ADC060"
+		 name: "Plane.007"
+		 numVertices: "12"
+		 numFaces: "6"
+		
+		
+		name: "CargoP4"
+		numMeshes: 1
+		 addr: "0000026B4989A080"
+		 name: "Cube.009"
+		 numVertices: "30"
+		 numFaces: "18"
+		
+		
+		name: "CargoP2"
+		numMeshes: 1
+		 addr: "0000026B4ABA5610"
+		 name: "Cube.010"
+		 numVertices: "24"
+		 numFaces: "12"
+		
+		
+		name: "CargoP3"
+		numMeshes: 1
+		 addr: "0000026B32006A90"
+		 name: "Cube.011"
+		 numVertices: "28"
+		 numFaces: "16"
+		
+		
+		name: "Cargo.P1"
+		numMeshes: 1
+		 addr: "0000026B32004560"
+		 name: "Cube.012"
+		 numVertices: "152"
+		 numFaces: "140"
+		
+		
+			name: "Level1_walls.002"
+			numMeshes: 1
+			 addr: "0000026B32004AB0"
+			 name: "Plane.002"
+			 numVertices: "182"
+			 numFaces: "264"
+			
+			
+
+[21:02:14.598666] [Import] [info] (th=16688) File loaded successfully
+[21:02:14.598722] [Import] [info] (th=16688) Meshes count: 10
+[21:02:14.598777] [Import] [info] (th=16688) Materials count: 3
+[21:02:14.599173] [Import] [warning] (th=16688) Texture not found: D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\PanelsTextures\SeamlessPanel_00\SeamlessPanel_00_BaseColor.png
+[21:02:14.599353] [Import] [warning] (th=16688) Texture not found: D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\PanelsTextures\SeamlessPanel_00\SeamlessPanel_00_Normal_OGL.png
+[21:02:14.599706] [Import] [warning] (th=16688) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_09_comp\Panel_09_comp_Tex1024\Panel_09comp_DefaultMaterial_BaseColor.png
+[21:02:14.599949] [Import] [warning] (th=16688) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_09_comp\Panel_09_comp_Tex1024\Panel_09comp_DefaultMaterial_Normal_OGL.png
+[21:02:14.600143] [Import] [warning] (th=16688) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_09_comp\Panel_09_comp_Tex1024\Panel_09comp_DefaultMaterial_Emissive.png
+[21:02:14.600489] [Import] [warning] (th=16688) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_02\Panel02_Tex1024\Panel_02_DefaultMaterial_BaseColor.png
+[21:02:14.600656] [Import] [warning] (th=16688) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_02\Panel02_Tex1024\Panel_02_DefaultMaterial_Normal_OGL.png
+[21:02:14.600741] [Import] [info] (th=16688) Textures count (imported): 0

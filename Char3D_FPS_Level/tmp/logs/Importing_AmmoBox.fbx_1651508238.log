@@ -1,0 +1,19 @@
+[19:17:18.715505] [Import] [info] (th=5220) Log level for 'Import' set to 'info'
+[19:17:18.715635] [Import] [info] (th=5220) Importing from D:\Users\Chris\Documents\ManuCollab\AmmoBox\AmmoBox\AmmoBox.fbx
+[19:17:18.751083] [Import] [info] (th=5220) Imported scene tree:
+name: "RootNode"
+
+	name: "Cube.010"
+	numMeshes: 1
+	 addr: "000002482BE08870"
+	 name: "Cube.016"
+	 numVertices: "1168"
+	 numFaces: "930"
+	
+	
+
+[19:17:18.751151] [Import] [info] (th=5220) File loaded successfully
+[19:17:18.751205] [Import] [info] (th=5220) Meshes count: 1
+[19:17:18.751264] [Import] [info] (th=5220) Materials count: 1
+[19:17:18.753009] [Import] [warning] (th=5220) Texture not found: D:\Users\Chris\Documents\ManuCollab\AmmoBox\AmmoBox\AO.png
+[19:17:18.753213] [Import] [info] (th=5220) Textures count (imported): 0

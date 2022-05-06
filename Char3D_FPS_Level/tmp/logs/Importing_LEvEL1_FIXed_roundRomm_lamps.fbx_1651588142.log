@@ -1,0 +1,199 @@
+[17:29:02.443840] [Import] [info] (th=24384) Log level for 'Import' set to 'info'
+[17:29:02.443982] [Import] [info] (th=24384) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_FIXed_roundRomm_lamps.fbx
+[17:29:02.462044] [Import] [info] (th=24384) Imported scene tree:
+name: "RootNode"
+
+	name: "Circle.017"
+	numMeshes: 1
+	 addr: "00000211423D4FB0"
+	 name: "Circle.003"
+	 numVertices: "16"
+	 numFaces: "8"
+	
+	
+	name: "Circle.056"
+	numMeshes: 1
+	 addr: "00000210DC5E3BA0"
+	 name: "Circle.063"
+	 numVertices: "28"
+	 numFaces: "14"
+	
+	
+	name: "Circle.078"
+	numMeshes: 1
+	 addr: "0000021104EE4A10"
+	 name: "Circle.092"
+	 numVertices: "16"
+	 numFaces: "8"
+	
+	
+	name: "Circle.079"
+	numMeshes: 1
+	 addr: "0000021124A84C10"
+	 name: "Circle.093"
+	 numVertices: "16"
+	 numFaces: "8"
+	
+	
+	name: "Circle.081"
+	numMeshes: 1
+	 addr: "000002111CB397C0"
+	 name: "Circle.095"
+	 numVertices: "16"
+	 numFaces: "8"
+	
+	
+	name: "Circle.082"
+	numMeshes: 1
+	 addr: "00000210A5063690"
+	 name: "Circle.096"
+	 numVertices: "16"
+	 numFaces: "8"
+	
+	
+	name: "Circle.083"
+	numMeshes: 1
+	 addr: "00000210A505C1B0"
+	 name: "Circle.097"
+	 numVertices: "16"
+	 numFaces: "8"
+	
+	
+	name: "Circle.084"
+	numMeshes: 1
+	 addr: "00000210A5065670"
+	 name: "Circle.098"
+	 numVertices: "16"
+	 numFaces: "8"
+	
+	
+
+[17:29:02.462117] [Import] [info] (th=24384) File loaded successfully
+[17:29:02.462169] [Import] [info] (th=24384) Meshes count: 8
+[17:29:02.462225] [Import] [info] (th=24384) Materials count: 2
+[17:29:02.462929] [Import] [warning] (th=24384) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_07\Panel_07_Tex1024\Panel_07_DefaultMaterial_BaseColor.png
+[17:29:02.463118] [Import] [warning] (th=24384) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_07\Panel_07_Tex1024\Panel_07_DefaultMaterial_Normal_OGL.png
+[17:29:02.463458] [Import] [warning] (th=24384) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\LightsPanel_00\LightsPanel_00_Tex1024\LightsPanel_00_DefaultMaterial_BaseColor.png
+[17:29:02.463624] [Import] [warning] (th=24384) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\LightsPanel_00\LightsPanel_00_Tex1024\LightsPanel_00_DefaultMaterial_Normal_OGL.png
+[17:29:02.463834] [Import] [warning] (th=24384) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\LightsPanel_00\LightsPanel_00_Tex1024\LightsPanel_00_DefaultMaterial_Emissive.png
+[17:29:02.463916] [Import] [info] (th=24384) Textures count (imported): 0
+[17:47:41.286918] [Import] [info] (th=24384) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\Lamp.fbx
+[17:47:41.289703] [Import] [info] (th=24384) Imported scene tree:
+name: "RootNode"
+
+	name: "Level1_retopo4.007"
+	numMeshes: 1
+	 addr: "000002112EC7BAE0"
+	 name: "Plane.056"
+	 numVertices: "8"
+	 numFaces: "4"
+	
+	
+	name: "Level1_retopo4.020"
+	numMeshes: 1
+	 addr: "000002112EC7D570"
+	 name: "Plane.174"
+	 numVertices: "77"
+	 numFaces: "38"
+	
+	
+
+[17:47:41.289769] [Import] [info] (th=24384) File loaded successfully
+[17:47:41.289823] [Import] [info] (th=24384) Meshes count: 2
+[17:47:41.289877] [Import] [info] (th=24384) Materials count: 2
+[17:47:41.290230] [Import] [warning] (th=24384) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\LightsPanel_00\LightsPanel_00_Tex1024\LightsPanel_00_DefaultMaterial_BaseColor.png
+[17:47:41.290395] [Import] [warning] (th=24384) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\LightsPanel_00\LightsPanel_00_Tex1024\LightsPanel_00_DefaultMaterial_Normal_OGL.png
+[17:47:41.290560] [Import] [warning] (th=24384) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\LightsPanel_00\LightsPanel_00_Tex1024\LightsPanel_00_DefaultMaterial_Emissive.png
+[17:47:41.290891] [Import] [warning] (th=24384) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Molding_00\Molding_00_Tex1024\Molding00_DefaultMaterial_BaseColor.png
+[17:47:41.291062] [Import] [warning] (th=24384) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Molding_00\Molding_00_Tex1024\Molding00_DefaultMaterial_Normal_OGL.png
+[17:47:41.291145] [Import] [info] (th=24384) Textures count (imported): 0
+[18:00:15.963044] [Import] [info] (th=24384) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\Lamp.fbx
+[18:00:15.966335] [Import] [info] (th=24384) Imported scene tree:
+name: "RootNode"
+
+	name: "Level1_retopo4.007"
+	numMeshes: 1
+	 addr: "000002112EC7E560"
+	 name: "Plane.056"
+	 numVertices: "8"
+	 numFaces: "4"
+	
+	
+	name: "Level1_retopo4.020"
+	numMeshes: 1
+	 addr: "000002112EC7DAC0"
+	 name: "Plane.174"
+	 numVertices: "77"
+	 numFaces: "38"
+	
+	
+
+[18:00:15.966411] [Import] [info] (th=24384) File loaded successfully
+[18:00:15.966491] [Import] [info] (th=24384) Meshes count: 2
+[18:00:15.966564] [Import] [info] (th=24384) Materials count: 2
+[18:00:15.967012] [Import] [warning] (th=24384) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\LightsPanel_00\LightsPanel_00_Tex1024\LightsPanel_00_DefaultMaterial_BaseColor.png
+[18:00:15.967234] [Import] [warning] (th=24384) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\LightsPanel_00\LightsPanel_00_Tex1024\LightsPanel_00_DefaultMaterial_Normal_OGL.png
+[18:00:15.967443] [Import] [warning] (th=24384) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\LightsPanel_00\LightsPanel_00_Tex1024\LightsPanel_00_DefaultMaterial_Emissive.png
+[18:00:15.967880] [Import] [warning] (th=24384) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Molding_00\Molding_00_Tex1024\Molding00_DefaultMaterial_BaseColor.png
+[18:00:15.968105] [Import] [warning] (th=24384) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Molding_00\Molding_00_Tex1024\Molding00_DefaultMaterial_Normal_OGL.png
+[18:00:15.968309] [Import] [info] (th=24384) Textures count (imported): 0
+[18:02:48.418182] [Import] [info] (th=24384) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\LampCirc.fbx
+[18:02:48.420935] [Import] [info] (th=24384) Imported scene tree:
+name: "RootNode"
+
+	name: "Level1_retopo4.007"
+	numMeshes: 1
+	 addr: "000002112EC80540"
+	 name: "Plane.056"
+	 numVertices: "8"
+	 numFaces: "4"
+	
+	
+	name: "Level1_retopo4.020"
+	numMeshes: 1
+	 addr: "000002112EC79060"
+	 name: "Plane.174"
+	 numVertices: "77"
+	 numFaces: "38"
+	
+	
+
+[18:02:48.421010] [Import] [info] (th=24384) File loaded successfully
+[18:02:48.421068] [Import] [info] (th=24384) Meshes count: 2
+[18:02:48.421125] [Import] [info] (th=24384) Materials count: 2
+[18:02:48.421476] [Import] [warning] (th=24384) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\LightsPanel_00\LightsPanel_00_Tex1024\LightsPanel_00_DefaultMaterial_BaseColor.png
+[18:02:48.421685] [Import] [warning] (th=24384) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\LightsPanel_00\LightsPanel_00_Tex1024\LightsPanel_00_DefaultMaterial_Normal_OGL.png
+[18:02:48.421904] [Import] [warning] (th=24384) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\LightsPanel_00\LightsPanel_00_Tex1024\LightsPanel_00_DefaultMaterial_Emissive.png
+[18:02:48.422238] [Import] [warning] (th=24384) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Molding_00\Molding_00_Tex1024\Molding00_DefaultMaterial_BaseColor.png
+[18:02:48.422425] [Import] [warning] (th=24384) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Molding_00\Molding_00_Tex1024\Molding00_DefaultMaterial_Normal_OGL.png
+[18:02:48.422508] [Import] [info] (th=24384) Textures count (imported): 0
+[18:05:55.695054] [Import] [info] (th=24384) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\LampNew.fbx
+[18:05:55.697858] [Import] [info] (th=24384) Imported scene tree:
+name: "RootNode"
+
+	name: "Level1_retopo4.007"
+	numMeshes: 1
+	 addr: "000002112EC7EAB0"
+	 name: "Plane.056"
+	 numVertices: "8"
+	 numFaces: "4"
+	
+	
+	name: "Level1_retopo4.020"
+	numMeshes: 1
+	 addr: "000002112EC78B10"
+	 name: "Plane.174"
+	 numVertices: "77"
+	 numFaces: "38"
+	
+	
+
+[18:05:55.697932] [Import] [info] (th=24384) File loaded successfully
+[18:05:55.697987] [Import] [info] (th=24384) Meshes count: 2
+[18:05:55.698040] [Import] [info] (th=24384) Materials count: 2
+[18:05:55.698387] [Import] [warning] (th=24384) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\LightsPanel_00\LightsPanel_00_Tex1024\LightsPanel_00_DefaultMaterial_BaseColor.png
+[18:05:55.698550] [Import] [warning] (th=24384) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\LightsPanel_00\LightsPanel_00_Tex1024\LightsPanel_00_DefaultMaterial_Normal_OGL.png
+[18:05:55.698713] [Import] [warning] (th=24384) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\LightsPanel_00\LightsPanel_00_Tex1024\LightsPanel_00_DefaultMaterial_Emissive.png
+[18:05:55.699056] [Import] [warning] (th=24384) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Molding_00\Molding_00_Tex1024\Molding00_DefaultMaterial_BaseColor.png
+[18:05:55.699215] [Import] [warning] (th=24384) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Molding_00\Molding_00_Tex1024\Molding00_DefaultMaterial_Normal_OGL.png
+[18:05:55.699298] [Import] [info] (th=24384) Textures count (imported): 0

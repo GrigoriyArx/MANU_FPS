@@ -1,0 +1,66 @@
+[12:29:17.747571] [Import] [info] (th=18948) Log level for 'Import' set to 'info'
+[12:29:17.747704] [Import] [info] (th=18948) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\particles.fbx
+[12:29:17.848280] [Import] [info] (th=18948) Imported scene tree:
+name: "RootNode"
+
+	name: "Cylinder"
+	numMeshes: 1
+	 addr: "0000026ED68CFF30"
+	 name: "Cylinder"
+	 numVertices: "32"
+	 numFaces: "30"
+	
+	
+	name: "Cylinder.001"
+	numMeshes: 1
+	 addr: "0000026ED68CC4C0"
+	 name: "Cylinder.001"
+	 numVertices: "32"
+	 numFaces: "30"
+	
+	
+	name: "Cylinder.002"
+	numMeshes: 1
+	 addr: "0000026ED68D2F00"
+	 name: "Cylinder.002"
+	 numVertices: "32"
+	 numFaces: "30"
+	
+	
+	name: "Cylinder.005"
+	numMeshes: 1
+	 addr: "0000026ED68D1F10"
+	 name: "Cylinder.005"
+	 numVertices: "32"
+	 numFaces: "30"
+	
+	
+	name: "Cylinder.004"
+	numMeshes: 1
+	 addr: "0000026ED68D0F20"
+	 name: "Cylinder.004"
+	 numVertices: "32"
+	 numFaces: "30"
+	
+	
+	name: "Cylinder.003"
+	numMeshes: 1
+	 addr: "0000026ED68D2460"
+	 name: "Cylinder.003"
+	 numVertices: "32"
+	 numFaces: "30"
+	
+	
+	name: "Cylinder.006"
+	numMeshes: 1
+	 addr: "0000026ED68D1470"
+	 name: "Cylinder.006"
+	 numVertices: "32"
+	 numFaces: "30"
+	
+	
+
+[12:29:17.848371] [Import] [info] (th=18948) File loaded successfully
+[12:29:17.848445] [Import] [info] (th=18948) Meshes count: 7
+[12:29:17.848520] [Import] [info] (th=18948) Materials count: 7
+[12:29:17.850505] [Import] [info] (th=18948) Textures count (imported): 0

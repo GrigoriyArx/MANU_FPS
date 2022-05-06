@@ -1,0 +1,30 @@
+[20:04:31.169222] [Import] [info] (th=17324) Log level for 'Import' set to 'info'
+[20:04:31.169331] [Import] [info] (th=17324) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\Cargo_Box_Deco.fbx
+[20:04:31.173377] [Import] [info] (th=17324) Imported scene tree:
+name: "RootNode"
+
+	name: "Cube"
+	numMeshes: 1
+	 addr: "0000015571D74370"
+	 name: "Cube"
+	 numVertices: "190"
+	 numFaces: "168"
+	
+	
+		name: "Level1_walls.002"
+		numMeshes: 1
+		 addr: "0000015570B88A30"
+		 name: "Plane.002"
+		 numVertices: "182"
+		 numFaces: "264"
+		
+		
+
+[20:04:31.173444] [Import] [info] (th=17324) File loaded successfully
+[20:04:31.173497] [Import] [info] (th=17324) Meshes count: 2
+[20:04:31.173550] [Import] [info] (th=17324) Materials count: 2
+[20:04:31.173932] [Import] [warning] (th=17324) Texture not found: D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\PanelsTextures\SeamlessPanel_00\SeamlessPanel_00_BaseColor.png
+[20:04:31.174115] [Import] [warning] (th=17324) Texture not found: D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\PanelsTextures\SeamlessPanel_00\SeamlessPanel_00_Normal_OGL.png
+[20:04:31.174617] [Import] [warning] (th=17324) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_02\Panel02_Tex1024\Panel_02_DefaultMaterial_BaseColor.png
+[20:04:31.174779] [Import] [warning] (th=17324) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_02\Panel02_Tex1024\Panel_02_DefaultMaterial_Normal_OGL.png
+[20:04:31.174873] [Import] [info] (th=17324) Textures count (imported): 0
