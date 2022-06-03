@@ -1,0 +1,18 @@
+[11:42:10.546694] [Import] [info] (th=18116) Log level for 'Import' set to 'info'
+[11:42:10.546806] [Import] [info] (th=18116) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\Cross_particles.fbx
+[11:42:10.549593] [Import] [info] (th=18116) Imported scene tree:
+name: "RootNode"
+
+	name: "Cube"
+	numMeshes: 1
+	 addr: "0000018759DE9530"
+	 name: "Cube"
+	 numVertices: "72"
+	 numFaces: "44"
+	
+	
+
+[11:42:10.549655] [Import] [info] (th=18116) File loaded successfully
+[11:42:10.549709] [Import] [info] (th=18116) Meshes count: 1
+[11:42:10.549761] [Import] [info] (th=18116) Materials count: 1
+[11:42:10.550036] [Import] [info] (th=18116) Textures count (imported): 0

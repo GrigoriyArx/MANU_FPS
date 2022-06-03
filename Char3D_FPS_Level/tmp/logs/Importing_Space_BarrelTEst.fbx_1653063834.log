@@ -1,0 +1,35 @@
+[19:23:54.994473] [Import] [info] (th=3292) Log level for 'Import' set to 'info'
+[19:23:54.994672] [Import] [info] (th=3292) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\Space_BarrelTEst.fbx
+[19:23:55.002413] [Import] [info] (th=3292) Imported scene tree:
+name: "RootNode"
+
+	name: "Props_Capsule"
+	numMeshes: 3
+	 addr: "00000231272BEED0"
+	 name: "Cylinder.014"
+	 numVertices: "1020"
+	 numFaces: "838"
+	
+	 addr: "00000231272C1400"
+	 name: "Cylinder.014"
+	 numVertices: "276"
+	 numFaces: "224"
+	
+	 addr: "00000231272C0410"
+	 name: "Cylinder.014"
+	 numVertices: "432"
+	 numFaces: "302"
+	
+	
+
+[19:23:55.002541] [Import] [info] (th=3292) File loaded successfully
+[19:23:55.002625] [Import] [info] (th=3292) Meshes count: 3
+[19:23:55.002694] [Import] [info] (th=3292) Materials count: 3
+[19:23:55.003209] [Import] [warning] (th=3292) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_08\Panel_08_Tex1024\Panel_08l_BaseColor.png
+[19:23:55.003396] [Import] [warning] (th=3292) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_08\Panel_08_Tex1024\Panel_08l_Normal_OGL.png
+[19:23:55.003777] [Import] [warning] (th=3292) Texture not found: D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\PanelsTextures\SeamlessPanel_00\SeamlessPanel_00_BaseColor.png
+[19:23:55.003958] [Import] [warning] (th=3292) Texture not found: D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\PanelsTextures\SeamlessPanel_00\SeamlessPanel_00_Normal_OGL.png
+[19:23:55.004312] [Import] [warning] (th=3292) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\LightsPanel_00\LightsPanel_00_Tex1024\LightsPanel_00_DefaultMaterial_BaseColor.png
+[19:23:55.004488] [Import] [warning] (th=3292) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\LightsPanel_00\LightsPanel_00_Tex1024\LightsPanel_00_DefaultMaterial_Normal_OGL.png
+[19:23:55.004663] [Import] [warning] (th=3292) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\LightsPanel_00\LightsPanel_00_Tex1024\LightsPanel_00_DefaultMaterial_Emissive.png
+[19:23:55.004748] [Import] [info] (th=3292) Textures count (imported): 0

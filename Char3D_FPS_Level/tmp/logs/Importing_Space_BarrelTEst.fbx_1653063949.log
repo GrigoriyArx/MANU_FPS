@@ -1,0 +1,35 @@
+[19:25:49.694439] [Import] [info] (th=15416) Log level for 'Import' set to 'info'
+[19:25:49.694562] [Import] [info] (th=15416) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\Space_BarrelTEst.fbx
+[19:25:49.700605] [Import] [info] (th=15416) Imported scene tree:
+name: "RootNode"
+
+	name: "Props_Capsule"
+	numMeshes: 3
+	 addr: "00000255597F7A20"
+	 name: "Cylinder.014"
+	 numVertices: "1020"
+	 numFaces: "838"
+	
+	 addr: "00000255597F8A10"
+	 name: "Cylinder.014"
+	 numVertices: "276"
+	 numFaces: "224"
+	
+	 addr: "00000254A2E3C330"
+	 name: "Cylinder.014"
+	 numVertices: "432"
+	 numFaces: "302"
+	
+	
+
+[19:25:49.700721] [Import] [info] (th=15416) File loaded successfully
+[19:25:49.700802] [Import] [info] (th=15416) Meshes count: 3
+[19:25:49.700863] [Import] [info] (th=15416) Materials count: 3
+[19:25:49.701255] [Import] [warning] (th=15416) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_08\Panel_08_Tex1024\Panel_08l_BaseColor.png
+[19:25:49.701487] [Import] [warning] (th=15416) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_08\Panel_08_Tex1024\Panel_08l_Normal_OGL.png
+[19:25:49.701879] [Import] [warning] (th=15416) Texture not found: D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\PanelsTextures\SeamlessPanel_00\SeamlessPanel_00_BaseColor.png
+[19:25:49.702081] [Import] [warning] (th=15416) Texture not found: D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\PanelsTextures\SeamlessPanel_00\SeamlessPanel_00_Normal_OGL.png
+[19:25:49.702463] [Import] [warning] (th=15416) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\LightsPanel_00\LightsPanel_00_Tex1024\LightsPanel_00_DefaultMaterial_BaseColor.png
+[19:25:49.702659] [Import] [warning] (th=15416) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\LightsPanel_00\LightsPanel_00_Tex1024\LightsPanel_00_DefaultMaterial_Normal_OGL.png
+[19:25:49.702852] [Import] [warning] (th=15416) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\LightsPanel_00\LightsPanel_00_Tex1024\LightsPanel_00_DefaultMaterial_Emissive.png
+[19:25:49.702962] [Import] [info] (th=15416) Textures count (imported): 0

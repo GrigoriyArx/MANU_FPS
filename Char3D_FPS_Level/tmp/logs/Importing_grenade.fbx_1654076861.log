@@ -1,0 +1,36 @@
+[12:47:41.710791] [Import] [info] (th=12220) Log level for 'Import' set to 'info'
+[12:47:41.710982] [Import] [info] (th=12220) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\grenade.fbx
+[12:47:41.770694] [Import] [info] (th=12220) Imported scene tree:
+name: "RootNode"
+
+	name: "Props_Capsule.003"
+	numMeshes: 1
+	 addr: "000001CA17A25B40"
+	 name: "Cylinder.007"
+	 numVertices: "851"
+	 numFaces: "796"
+	
+	
+		name: "Cylinder.002"
+		numMeshes: 1
+		 addr: "000001CA17A24600"
+		 name: "Cylinder.009"
+		 numVertices: "370"
+		 numFaces: "400"
+		
+		
+		name: "Cube.002"
+		numMeshes: 1
+		 addr: "000001CA17A26090"
+		 name: "Cube.014"
+		 numVertices: "102"
+		 numFaces: "56"
+		
+		
+
+[12:47:41.770801] [Import] [info] (th=12220) File loaded successfully
+[12:47:41.770907] [Import] [info] (th=12220) Meshes count: 3
+[12:47:41.771059] [Import] [info] (th=12220) Materials count: 1
+[12:47:41.779723] [Import] [warning] (th=12220) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_00\Panel00_Tex1024\Panel_for_bake_DefaultMaterial_BaseColor.png
+[12:47:41.779895] [Import] [warning] (th=12220) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_00\Panel00_Tex1024\Panel_for_bake_DefaultMaterial_Normal_OGL.png
+[12:47:41.779988] [Import] [info] (th=12220) Textures count (imported): 0

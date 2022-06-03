@@ -1,0 +1,68 @@
+[13:52:33.638080] [Import] [info] (th=19700) Log level for 'Import' set to 'info'
+[13:52:33.638232] [Import] [info] (th=19700) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\Healer.fbx
+[13:52:33.690540] [Import] [info] (th=19700) Imported scene tree:
+name: "RootNode"
+
+	name: "Circle.108"
+	numMeshes: 1
+	 addr: "000002990A2C2D20"
+	 name: "Circle.013"
+	 numVertices: "139"
+	 numFaces: "148"
+	
+	
+		name: "Circle.111"
+		numMeshes: 1
+		 addr: "00000299562B93E0"
+		 name: "Circle.132"
+		 numVertices: "50"
+		 numFaces: "48"
+		
+		
+		name: "Circle.112"
+		numMeshes: 1
+		 addr: "0000029961D5C350"
+		 name: "Circle.010"
+		 numVertices: "50"
+		 numFaces: "48"
+		
+		
+		name: "Circle.113"
+		numMeshes: 1
+		 addr: "00000298B57A9290"
+		 name: "Circle.009"
+		 numVertices: "24"
+		 numFaces: "22"
+		
+		
+		name: "Circle.167"
+		numMeshes: 1
+		 addr: "000002996A1EE0A0"
+		 name: "Circle.002"
+		 numVertices: "156"
+		 numFaces: "264"
+		
+		
+		name: "Cylinder.001"
+		numMeshes: 1
+		 addr: "000002990B552A10"
+		 name: "Cylinder.003"
+		 numVertices: "1188"
+		 numFaces: "2240"
+		
+		
+
+[13:52:33.690626] [Import] [info] (th=19700) File loaded successfully
+[13:52:33.690690] [Import] [info] (th=19700) Meshes count: 6
+[13:52:33.690745] [Import] [info] (th=19700) Materials count: 5
+[13:52:33.696250] [Import] [warning] (th=19700) Texture not found: D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\PanelsTextures\SeamlessFence_00-1\Bake_plane_Horizontal_x4_DefaultMaterial_BaseColor.png
+[13:52:33.696457] [Import] [warning] (th=19700) Texture not found: D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\PanelsTextures\SeamlessFence_00-1\Bake_plane_Horizontal_x4_DefaultMaterial_Normal_OGL.png
+[13:52:33.696994] [Import] [warning] (th=19700) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_05\Panel05_Tex1024\Pamel_05_DefaultMaterial_BaseColor.png
+[13:52:33.697325] [Import] [warning] (th=19700) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_05\Panel05_Tex1024\Pamel_05_DefaultMaterial_Normal_OGL.png
+[13:52:33.697701] [Import] [warning] (th=19700) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_03\Panel03_Tex1024\Pamel_03_DefaultMaterial_BaseColor.png
+[13:52:33.697869] [Import] [warning] (th=19700) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_03\Panel03_Tex1024\Pamel_03_DefaultMaterial_Normal_OGL.png
+[13:52:33.698216] [Import] [warning] (th=19700) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_10\Panel_10b_Tex2048\Panel_10_DefaultMaterial_BaseColor.png
+[13:52:33.698382] [Import] [warning] (th=19700) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_10\Panel_10b_Tex2048\Panel_10_DefaultMaterial_Normal_OGL.png
+[13:52:33.698744] [Import] [warning] (th=19700) Texture not found: D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\PanelsTextures\SeamlessFloor_00-1\Bake_plane_Horizontal_DefaultMaterial_BaseColor.png
+[13:52:33.698916] [Import] [warning] (th=19700) Texture not found: D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\PanelsTextures\SeamlessFloor_00-1\Bake_plane_Horizontal_DefaultMaterial_Normal_OGL.png
+[13:52:33.698998] [Import] [info] (th=19700) Textures count (imported): 0
