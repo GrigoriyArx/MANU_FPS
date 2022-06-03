@@ -1,0 +1,130 @@
+[10:29:07.431243] [Import] [info] (th=2688) Log level for 'Import' set to 'info'
+[10:29:07.431382] [Import] [info] (th=2688) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\Cargo_Box_Deco.fbx
+[10:29:07.509140] [Import] [info] (th=2688) Imported scene tree:
+name: "RootNode"
+
+	name: "Cargo.001"
+	numMeshes: 1
+	 addr: "000001D96322EA90"
+	 name: "Cube.008"
+	 numVertices: "180"
+	 numFaces: "165"
+	
+	
+		name: "Plane.007"
+		numMeshes: 1
+		 addr: "000001D973124A90"
+		 name: "Plane.009"
+		 numVertices: "12"
+		 numFaces: "6"
+		
+		
+		name: "Plane.006"
+		numMeshes: 1
+		 addr: "000001D96C2DCA20"
+		 name: "Plane.008"
+		 numVertices: "12"
+		 numFaces: "6"
+		
+		
+		name: "Top.001"
+		numMeshes: 1
+		 addr: "000001D95F5749C0"
+		 name: "Cube.007"
+		 numVertices: "134"
+		 numFaces: "103"
+		
+		
+		name: "Level1_walls.003"
+		numMeshes: 1
+		 addr: "000001D9523FA4F0"
+		 name: "Plane.012"
+		 numVertices: "182"
+		 numFaces: "264"
+		
+		
+
+[10:29:07.509222] [Import] [info] (th=2688) File loaded successfully
+[10:29:07.509277] [Import] [info] (th=2688) Meshes count: 5
+[10:29:07.509331] [Import] [info] (th=2688) Materials count: 2
+[10:29:07.530332] [Import] [warning] (th=2688) Texture not found: D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\PanelsTextures\SeamlessPanel_00\SeamlessPanel_00_BaseColor.png
+[10:29:07.530513] [Import] [warning] (th=2688) Texture not found: D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\PanelsTextures\SeamlessPanel_00\SeamlessPanel_00_Normal_OGL.png
+[10:29:07.530880] [Import] [warning] (th=2688) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_02\Panel02_Tex1024\Panel_02_DefaultMaterial_BaseColor.png
+[10:29:07.531044] [Import] [warning] (th=2688) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_02\Panel02_Tex1024\Panel_02_DefaultMaterial_Normal_OGL.png
+[10:29:07.531158] [Import] [info] (th=2688) Textures count (imported): 0
+[10:40:13.012258] [Import] [info] (th=2688) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\CB_Cylinder.fbx
+[10:40:13.015038] [Import] [info] (th=2688) Imported scene tree:
+name: "RootNode"
+
+	name: "Level1_walls.003"
+	numMeshes: 1
+	 addr: "000001D96B8CE790"
+	 name: "Plane.012"
+	 numVertices: "182"
+	 numFaces: "264"
+	
+	
+
+[10:40:13.015100] [Import] [info] (th=2688) File loaded successfully
+[10:40:13.015154] [Import] [info] (th=2688) Meshes count: 1
+[10:40:13.015213] [Import] [info] (th=2688) Materials count: 1
+[10:40:13.015562] [Import] [warning] (th=2688) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_02\Panel02_Tex1024\Panel_02_DefaultMaterial_BaseColor.png
+[10:40:13.015726] [Import] [warning] (th=2688) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_02\Panel02_Tex1024\Panel_02_DefaultMaterial_Normal_OGL.png
+[10:40:13.015839] [Import] [info] (th=2688) Textures count (imported): 0
+[11:02:59.433300] [Import] [info] (th=2688) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\Cargo_Box_Deco.fbx
+[11:02:59.436204] [Import] [info] (th=2688) Imported scene tree:
+name: "RootNode"
+
+	name: "Cube"
+	numMeshes: 1
+	 addr: "000001D987042E30"
+	 name: "Cube"
+	 numVertices: "190"
+	 numFaces: "168"
+	
+	
+
+[11:02:59.436283] [Import] [info] (th=2688) File loaded successfully
+[11:02:59.436353] [Import] [info] (th=2688) Meshes count: 1
+[11:02:59.436423] [Import] [info] (th=2688) Materials count: 1
+[11:02:59.436813] [Import] [warning] (th=2688) Texture not found: D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\PanelsTextures\SeamlessPanel_00\SeamlessPanel_00_BaseColor.png
+[11:02:59.437005] [Import] [warning] (th=2688) Texture not found: D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\PanelsTextures\SeamlessPanel_00\SeamlessPanel_00_Normal_OGL.png
+[11:02:59.437091] [Import] [info] (th=2688) Textures count (imported): 0
+[11:05:55.296150] [Import] [info] (th=2688) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\Cargo_Box_Deco.fbx
+[11:05:55.298650] [Import] [info] (th=2688) Imported scene tree:
+name: "RootNode"
+
+	name: "Cube"
+	numMeshes: 1
+	 addr: "000001D9637D9630"
+	 name: "Cube"
+	 numVertices: "190"
+	 numFaces: "168"
+	
+	
+
+[11:05:55.298755] [Import] [info] (th=2688) File loaded successfully
+[11:05:55.298828] [Import] [info] (th=2688) Meshes count: 1
+[11:05:55.298901] [Import] [info] (th=2688) Materials count: 1
+[11:05:55.299280] [Import] [warning] (th=2688) Texture not found: D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\PanelsTextures\SeamlessPanel_00\SeamlessPanel_00_BaseColor.png
+[11:05:55.299455] [Import] [warning] (th=2688) Texture not found: D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\PanelsTextures\SeamlessPanel_00\SeamlessPanel_00_Normal_OGL.png
+[11:05:55.299559] [Import] [info] (th=2688) Textures count (imported): 0
+[11:09:46.718947] [Import] [info] (th=2688) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\Cargo_Box_Deco.fbx
+[11:09:46.721438] [Import] [info] (th=2688) Imported scene tree:
+name: "RootNode"
+
+	name: "Cube"
+	numMeshes: 1
+	 addr: "000001D96B8C1DB0"
+	 name: "Cube"
+	 numVertices: "190"
+	 numFaces: "168"
+	
+	
+
+[11:09:46.721499] [Import] [info] (th=2688) File loaded successfully
+[11:09:46.721552] [Import] [info] (th=2688) Meshes count: 1
+[11:09:46.721606] [Import] [info] (th=2688) Materials count: 1
+[11:09:46.721975] [Import] [warning] (th=2688) Texture not found: D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\PanelsTextures\SeamlessPanel_00\SeamlessPanel_00_BaseColor.png
+[11:09:46.722144] [Import] [warning] (th=2688) Texture not found: D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\PanelsTextures\SeamlessPanel_00\SeamlessPanel_00_Normal_OGL.png
+[11:09:46.722259] [Import] [info] (th=2688) Textures count (imported): 0

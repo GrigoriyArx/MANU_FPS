@@ -1,0 +1,67 @@
+[15:38:49.482722] [Import] [info] (th=9572) Log level for 'Import' set to 'info'
+[15:38:49.482840] [Import] [info] (th=9572) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\Single_Terminal.fbx
+[15:38:49.488176] [Import] [info] (th=9572) Imported scene tree:
+name: "RootNode"
+
+	name: "MidComp.004"
+	numMeshes: 1
+	 addr: "0000019232DBA6E0"
+	 name: "Cube.056"
+	 numVertices: "92"
+	 numFaces: "52"
+	
+	
+		name: "Plane.001"
+		numMeshes: 1
+		 addr: "0000019232DBAC30"
+		 name: "Plane.003"
+		 numVertices: "4"
+		 numFaces: "2"
+		
+		
+		name: "MidComp.001"
+		numMeshes: 1
+		 addr: "0000019189B827A0"
+		 name: "Cube.034"
+		 numVertices: "15"
+		 numFaces: "12"
+		
+		
+		name: "MidComp.003"
+		numMeshes: 1
+		 addr: "0000019224EB6040"
+		 name: "Cube.055"
+		 numVertices: "291"
+		 numFaces: "264"
+		
+		
+		name: "MidComp.002"
+		numMeshes: 1
+		 addr: "0000019224EB8020"
+		 name: "Cube.006"
+		 numVertices: "79"
+		 numFaces: "66"
+		
+		
+		name: "MidComp.005"
+		numMeshes: 1
+		 addr: "0000019224EB9010"
+		 name: "Cube.053"
+		 numVertices: "43"
+		 numFaces: "40"
+		
+		
+
+[15:38:49.488258] [Import] [info] (th=9572) File loaded successfully
+[15:38:49.488313] [Import] [info] (th=9572) Meshes count: 6
+[15:38:49.488368] [Import] [info] (th=9572) Materials count: 3
+[15:38:49.488753] [Import] [warning] (th=9572) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_09_comp\Panel_09_comp_Tex1024\Panel_09comp_DefaultMaterial_BaseColor.png
+[15:38:49.488925] [Import] [warning] (th=9572) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_09_comp\Panel_09_comp_Tex1024\Panel_09comp_DefaultMaterial_Normal_OGL.png
+[15:38:49.489090] [Import] [warning] (th=9572) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_09_comp\Panel_09_comp_Tex1024\Panel_09comp_DefaultMaterial_Emissive.png
+[15:38:49.489425] [Import] [warning] (th=9572) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_09_comp\Panel_09_comp_Tex1024\Panel_09comp_DefaultMaterial_BaseColor.png
+[15:38:49.489597] [Import] [warning] (th=9572) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_09_comp\Panel_09_comp_Tex1024\Panel_09comp_DefaultMaterial_Normal_OGL.png
+[15:38:49.489759] [Import] [warning] (th=9572) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_09_comp\Panel_09_comp_Tex1024\Panel_09comp_DefaultMaterial_Emissive.png
+[15:38:49.490145] [Import] [warning] (th=9572) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_09_comp\Panel_09_comp_Tex1024\Panel_09comp_DefaultMaterial_BaseColor.png
+[15:38:49.490307] [Import] [warning] (th=9572) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_09_comp\Panel_09_comp_Tex1024\Panel_09comp_DefaultMaterial_Normal_OGL.png
+[15:38:49.490469] [Import] [warning] (th=9572) Texture not found: D:\_PROJECTS\Sci-fi_PANELS\Panel_09_comp\Panel_09_comp_Tex1024\Panel_09comp_DefaultMaterial_Emissive.png
+[15:38:49.490559] [Import] [info] (th=9572) Textures count (imported): 0

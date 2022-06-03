@@ -1,0 +1,120 @@
+[10:43:44.731804] [Import] [info] (th=13368) Log level for 'Import' set to 'info'
+[10:43:44.732296] [Import] [info] (th=13368) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\NPC_Path.fbx
+[10:43:44.900759] [Import] [info] (th=13368) Imported scene tree:
+name: "RootNode"
+
+	name: "path"
+	numMeshes: 1
+	 addr: "00000215B44878B0"
+	 name: "Cube.001"
+	 numVertices: "160"
+	 numFaces: "148"
+	
+	
+	name: "Armature"
+	
+		name: "P1"
+		
+			name: "Point1"
+			numMeshes: 1
+			 addr: "00000215FC70AA70"
+			 name: "Cube"
+			 numVertices: "24"
+			 numFaces: "12"
+			
+			
+			name: "P2"
+			
+				name: "Point2"
+				numMeshes: 1
+				 addr: "00000216291836E0"
+				 name: "Cube.003"
+				 numVertices: "24"
+				 numFaces: "12"
+				
+				
+				name: "P3"
+				
+					name: "Point3"
+					numMeshes: 1
+					 addr: "000002165AAD4C20"
+					 name: "Cube.004"
+					 numVertices: "24"
+					 numFaces: "12"
+					
+					
+					name: "P4"
+					
+						name: "point4"
+						numMeshes: 1
+						 addr: "00000215B46F6020"
+						 name: "Cube.005"
+						 numVertices: "24"
+						 numFaces: "12"
+						
+						
+						name: "P5"
+						
+							name: "Point5"
+							numMeshes: 1
+							 addr: "0000021587DB9580"
+							 name: "Cube.006"
+							 numVertices: "24"
+							 numFaces: "12"
+							
+							
+							name: "P6"
+							
+								name: "Point6"
+								numMeshes: 1
+								 addr: "0000021587DB9AD0"
+								 name: "Cube.007"
+								 numVertices: "24"
+								 numFaces: "12"
+								
+								
+								name: "P7"
+								
+									name: "Point7"
+									numMeshes: 1
+									 addr: "0000021587DBA020"
+									 name: "Cube.008"
+									 numVertices: "24"
+									 numFaces: "12"
+									
+									
+									name: "P8"
+									
+										name: "Point8"
+										numMeshes: 1
+										 addr: "0000021587DBA570"
+										 name: "Cube.009"
+										 numVertices: "24"
+										 numFaces: "12"
+										
+										
+										name: "P9"
+										
+											name: "Point9"
+											numMeshes: 1
+											 addr: "0000021587DBB560"
+											 name: "Cube.010"
+											 numVertices: "24"
+											 numFaces: "12"
+											
+											
+											name: "P10"
+											
+												name: "Point10"
+												numMeshes: 1
+												 addr: "0000021587DBBAB0"
+												 name: "Cube.011"
+												 numVertices: "24"
+												 numFaces: "12"
+												
+												
+
+[10:43:44.900873] [Import] [info] (th=13368) File loaded successfully
+[10:43:44.900941] [Import] [info] (th=13368) Meshes count: 11
+[10:43:44.900993] [Import] [info] (th=13368) Materials count: 2
+[10:43:44.917319] [Import] [info] (th=13368) Textures count (imported): 0
