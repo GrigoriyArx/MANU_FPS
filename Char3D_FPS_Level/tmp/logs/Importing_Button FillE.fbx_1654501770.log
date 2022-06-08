@@ -1,0 +1,26 @@
+[10:49:30.480353] [Import] [info] (th=23192) Log level for 'Import' set to 'info'
+[10:49:30.482550] [Import] [info] (th=23192) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\Button FillE.fbx
+[10:49:30.532798] [Import] [info] (th=23192) Imported scene tree:
+name: "RootNode"
+
+	name: "Fill"
+	numMeshes: 1
+	 addr: "00000200E7B228D0"
+	 name: "Cylinder"
+	 numVertices: "136"
+	 numFaces: "68"
+	
+	
+	name: "Button"
+	numMeshes: 1
+	 addr: "00000200ECA2A070"
+	 name: "Cylinder.001"
+	 numVertices: "16"
+	 numFaces: "22"
+	
+	
+
+[10:49:30.532865] [Import] [info] (th=23192) File loaded successfully
+[10:49:30.532919] [Import] [info] (th=23192) Meshes count: 2
+[10:49:30.532972] [Import] [info] (th=23192) Materials count: 2
+[10:49:30.560903] [Import] [info] (th=23192) Textures count (imported): 1

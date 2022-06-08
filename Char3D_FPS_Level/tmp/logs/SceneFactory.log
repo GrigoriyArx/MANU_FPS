@@ -228,3 +228,8 @@
 [16:24:57.866261] [SceneFactory] [info] (th=25444) Log level for 'SceneFactory' set to 'info'
 [16:52:36.921015] [SceneFactory] [info] (th=10992) Log level for 'SceneFactory' set to 'info'
 [16:52:36.921235] [SceneFactory] [info] (th=10992) StateMachine is created: id: BD9AB84A-E588-436C-A944-A14BA4079BDF
+[10:49:30.479217] [SceneFactory] [info] (th=23192) Log level for 'SceneFactory' set to 'info'
+[11:44:18.815443] [SceneFactory] [info] (th=19180) Log level for 'SceneFactory' set to 'info'
+[11:44:18.815534] [SceneFactory] [info] (th=19180) Box is created: id: 0F4172B4-326F-41E5-B32F-59DC0ED2892D
+[13:17:08.406530] [SceneFactory] [info] (th=24056) Log level for 'SceneFactory' set to 'info'
+[13:17:08.858203] [SceneFactory] [info] (th=24056) StateMachine is created: id: 05825C80-24DA-42E3-80E3-4908C1953B7D
