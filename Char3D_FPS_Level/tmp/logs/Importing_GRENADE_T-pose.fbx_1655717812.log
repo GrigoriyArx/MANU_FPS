@@ -1,0 +1,1104 @@
+[12:36:52.541728] [Import] [info] (th=13388) Log level for 'Import' set to 'info'
+[12:36:52.542341] [Import] [info] (th=13388) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\GUN_idle\GRENADE_T-pose.fbx
+[12:36:52.560311] [Import] [info] (th=13388) Imported scene tree:
+name: "RootNode"
+
+	name: "Grenade"
+	numMeshes: 1
+	 addr: "000001FF7AE79AE0"
+	 name: "Cylinder.007"
+	 numVertices: "1228"
+	 numFaces: "1208"
+	
+	
+	name: "ArmatureGrenade"
+	
+		name: "GrenadeBody"
+		
+		name: "GrenadeRing"
+		
+
+[12:36:52.560380] [Import] [info] (th=13388) File loaded successfully
+[12:36:52.560433] [Import] [info] (th=13388) Meshes count: 1
+[12:36:52.560486] [Import] [info] (th=13388) Materials count: 1
+[12:36:52.562310] [Import] [warning] (th=13388) Texture not found: C:\_PROJECTS\Sci-fi_PANELS\Panel_00\Panel00_Tex1024\Panel_for_bake_DefaultMaterial_BaseColor.png
+[12:36:52.562512] [Import] [warning] (th=13388) Texture not found: C:\_PROJECTS\Sci-fi_PANELS\Panel_00\Panel00_Tex1024\Panel_for_bake_DefaultMaterial_Normal_OGL.png
+[12:36:52.562600] [Import] [info] (th=13388) Textures count (imported): 0
+[12:52:49.592831] [Import] [info] (th=13388) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\GUN_idle\GRENADE_T-poseF.fbx
+[12:52:49.598837] [Import] [info] (th=13388) Imported scene tree:
+name: "RootNode"
+
+	name: "ArmatureGrenade"
+	
+		name: "GrenadeBody"
+		
+		name: "GrenadeRing"
+		
+	name: "Grenade"
+	numMeshes: 2
+	 addr: "000001FF8BBC95D0"
+	 name: "Cylinder.007"
+	 numVertices: "742"
+	 numFaces: "720"
+	
+	 addr: "000001FF8BBCB060"
+	 name: "Cylinder.007"
+	 numVertices: "486"
+	 numFaces: "488"
+	
+	
+
+[12:52:49.598902] [Import] [info] (th=13388) File loaded successfully
+[12:52:49.598956] [Import] [info] (th=13388) Meshes count: 2
+[12:52:49.599010] [Import] [info] (th=13388) Materials count: 2
+[12:52:49.599442] [Import] [warning] (th=13388) Texture not found: C:\_PROJECTS\Sci-fi_PANELS\Panel_00\Panel00_Tex1024\Panel_for_bake_DefaultMaterial_BaseColor.png
+[12:52:49.599649] [Import] [warning] (th=13388) Texture not found: C:\_PROJECTS\Sci-fi_PANELS\Panel_00\Panel00_Tex1024\Panel_for_bake_DefaultMaterial_Normal_OGL.png
+[12:52:49.600013] [Import] [warning] (th=13388) Texture not found: C:\_PROJECTS\Sci-fi_PANELS\Panel_00\Panel00_Tex1024\Panel_for_bake_DefaultMaterial_BaseColor.png
+[12:52:49.600209] [Import] [warning] (th=13388) Texture not found: C:\_PROJECTS\Sci-fi_PANELS\Panel_00\Panel00_Tex1024\Panel_for_bake_DefaultMaterial_Normal_OGL.png
+[12:52:49.600292] [Import] [info] (th=13388) Textures count (imported): 0
+[12:58:48.040957] [Import] [info] (th=13388) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\GUN_idle\GRENADE_Idle.fbx
+[12:58:48.043736] [Import] [info] (th=13388) Imported scene tree:
+name: "RootNode"
+
+	name: "ArmatureGrenade"
+	
+		name: "GrenadeBody"
+		
+		name: "GrenadeRing"
+		
+
+[12:58:48.043814] [Import] [info] (th=13388) File loaded successfully
+[12:58:48.043884] [Import] [info] (th=13388) Meshes count: 0
+[12:58:48.043954] [Import] [info] (th=13388) Materials count: 0
+[12:59:12.961165] [Import] [info] (th=13388) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\GUN_idle\GRENADE_Hide.fbx
+[12:59:12.963832] [Import] [info] (th=13388) Imported scene tree:
+name: "RootNode"
+
+	name: "ArmatureGrenade"
+	
+		name: "GrenadeBody"
+		
+		name: "GrenadeRing"
+		
+
+[12:59:12.963891] [Import] [info] (th=13388) File loaded successfully
+[12:59:12.963945] [Import] [info] (th=13388) Meshes count: 0
+[12:59:12.963998] [Import] [info] (th=13388) Materials count: 0
+[12:59:30.869593] [Import] [info] (th=13388) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\GUN_idle\GRENADE_Show.fbx
+[12:59:30.872468] [Import] [info] (th=13388) Imported scene tree:
+name: "RootNode"
+
+	name: "ArmatureGrenade"
+	
+		name: "GrenadeBody"
+		
+		name: "GrenadeRing"
+		
+
+[12:59:30.872528] [Import] [info] (th=13388) File loaded successfully
+[12:59:30.872581] [Import] [info] (th=13388) Meshes count: 0
+[12:59:30.872633] [Import] [info] (th=13388) Materials count: 0
+[12:59:47.074291] [Import] [info] (th=13388) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\GUN_idle\GRENADE_throw.fbx
+[12:59:47.077129] [Import] [info] (th=13388) Imported scene tree:
+name: "RootNode"
+
+	name: "ArmatureGrenade"
+	
+		name: "GrenadeBody"
+		
+		name: "GrenadeRing"
+		
+
+[12:59:47.077205] [Import] [info] (th=13388) File loaded successfully
+[12:59:47.077277] [Import] [info] (th=13388) Meshes count: 0
+[12:59:47.077346] [Import] [info] (th=13388) Materials count: 0
+[13:07:39.967355] [Import] [info] (th=13388) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\GUN_idle\GUN_showWeapon.fbx
+[13:07:39.972759] [Import] [info] (th=13388) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Base"
+		
+			name: "piston2"
+			
+			name: "piston1"
+			
+			name: "shutter"
+			
+			name: "Round_piston"
+			
+			name: "ammo"
+			
+			name: "trigger"
+			
+			name: "Fire"
+			
+
+[13:07:39.972826] [Import] [info] (th=13388) File loaded successfully
+[13:07:39.972880] [Import] [info] (th=13388) Meshes count: 0
+[13:07:39.972934] [Import] [info] (th=13388) Materials count: 0
+[13:09:01.344108] [Import] [info] (th=13388) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\GUN_idle\GUN_hideWeapon.fbx
+[13:09:01.349134] [Import] [info] (th=13388) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Base"
+		
+			name: "piston2"
+			
+			name: "piston1"
+			
+			name: "shutter"
+			
+			name: "Round_piston"
+			
+			name: "ammo"
+			
+			name: "trigger"
+			
+			name: "Fire"
+			
+
+[13:09:01.349213] [Import] [info] (th=13388) File loaded successfully
+[13:09:01.349282] [Import] [info] (th=13388) Meshes count: 0
+[13:09:01.349351] [Import] [info] (th=13388) Materials count: 0
+[13:09:34.557481] [Import] [info] (th=13388) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\GUN_idle\HANDS_grenadeHide.fbx
+[13:09:34.583650] [Import] [info] (th=13388) Imported scene tree:
+name: "RootNode"
+
+	name: "metarig"
+	
+		name: "neck"
+		
+			name: "head"
+			
+			name: "soulder_L"
+			
+				name: "upper_arm_L"
+				
+					name: "forearm.L"
+					
+						name: "hand.L"
+						
+							name: "palm_ind_L"
+							
+								name: "f_index1_L"
+								
+									name: "f_index2_L"
+									
+										name: "f_index3_L"
+										
+								name: "f_ind__knuckles_L"
+								
+							name: "palm_mid_L"
+							
+								name: "f_middle1_L"
+								
+									name: "f_middle2_L"
+									
+										name: "f_middle3_L"
+										
+								name: "f_mid_knuckles_L"
+								
+							name: "palm_ring_L"
+							
+								name: "f_ring1_L"
+								
+									name: "f_ring2_L"
+									
+										name: "f_ring3_L"
+										
+								name: "f_ring_knuckles_L"
+								
+							name: "palm_lit_L"
+							
+								name: "f_pinky1_L"
+								
+									name: "f_pinky2_L"
+									
+										name: "f_pinky3_L"
+										
+								name: "f_pinky_knuckles_L"
+								
+							name: "thumb0_L"
+							
+								name: "thumb1_L"
+								
+									name: "thumb2_L"
+									
+										name: "thumb3_L"
+										
+						name: "forearmTwist2_L"
+						
+						name: "forearmTwist_L"
+						
+			name: "soulder_R"
+			
+				name: "upper_arm_R"
+				
+					name: "forearm.R"
+					
+						name: "hand.R"
+						
+							name: "palm_ind_R"
+							
+								name: "f_index1_R"
+								
+									name: "f_index2_R"
+									
+										name: "f_index3_R"
+										
+								name: "f_ind__knuckles_R"
+								
+							name: "palm_mid_R"
+							
+								name: "f_middle1_R"
+								
+									name: "f_middle2_R"
+									
+										name: "f_middle3_R"
+										
+								name: "f_mid_knuckles_R"
+								
+							name: "palm_ring_R"
+							
+								name: "f_ring1_R"
+								
+									name: "f_ring2_R"
+									
+										name: "f_ring3_R"
+										
+								name: "f_ring_knuckles_R"
+								
+							name: "palm_lit_R"
+							
+								name: "f_pinky1_R"
+								
+									name: "f_pinky2_R"
+									
+										name: "f_pinky3_R"
+										
+								name: "f_pinky_knuckles_R"
+								
+							name: "thumb0_R"
+							
+								name: "thumb1_R"
+								
+									name: "thumb2_R"
+									
+										name: "thumb3_R"
+										
+						name: "forearmTwist2_R"
+						
+						name: "forearmTwist_R"
+						
+
+[13:09:34.583741] [Import] [info] (th=13388) File loaded successfully
+[13:09:34.583824] [Import] [info] (th=13388) Meshes count: 0
+[13:09:34.583899] [Import] [info] (th=13388) Materials count: 0
+[13:10:00.382140] [Import] [info] (th=13388) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\GUN_idle\HANDS_grenadeIdle.fbx
+[13:10:00.407687] [Import] [info] (th=13388) Imported scene tree:
+name: "RootNode"
+
+	name: "metarig"
+	
+		name: "neck"
+		
+			name: "head"
+			
+			name: "soulder_L"
+			
+				name: "upper_arm_L"
+				
+					name: "forearm.L"
+					
+						name: "hand.L"
+						
+							name: "palm_ind_L"
+							
+								name: "f_index1_L"
+								
+									name: "f_index2_L"
+									
+										name: "f_index3_L"
+										
+								name: "f_ind__knuckles_L"
+								
+							name: "palm_mid_L"
+							
+								name: "f_middle1_L"
+								
+									name: "f_middle2_L"
+									
+										name: "f_middle3_L"
+										
+								name: "f_mid_knuckles_L"
+								
+							name: "palm_ring_L"
+							
+								name: "f_ring1_L"
+								
+									name: "f_ring2_L"
+									
+										name: "f_ring3_L"
+										
+								name: "f_ring_knuckles_L"
+								
+							name: "palm_lit_L"
+							
+								name: "f_pinky1_L"
+								
+									name: "f_pinky2_L"
+									
+										name: "f_pinky3_L"
+										
+								name: "f_pinky_knuckles_L"
+								
+							name: "thumb0_L"
+							
+								name: "thumb1_L"
+								
+									name: "thumb2_L"
+									
+										name: "thumb3_L"
+										
+						name: "forearmTwist2_L"
+						
+						name: "forearmTwist_L"
+						
+			name: "soulder_R"
+			
+				name: "upper_arm_R"
+				
+					name: "forearm.R"
+					
+						name: "hand.R"
+						
+							name: "palm_ind_R"
+							
+								name: "f_index1_R"
+								
+									name: "f_index2_R"
+									
+										name: "f_index3_R"
+										
+								name: "f_ind__knuckles_R"
+								
+							name: "palm_mid_R"
+							
+								name: "f_middle1_R"
+								
+									name: "f_middle2_R"
+									
+										name: "f_middle3_R"
+										
+								name: "f_mid_knuckles_R"
+								
+							name: "palm_ring_R"
+							
+								name: "f_ring1_R"
+								
+									name: "f_ring2_R"
+									
+										name: "f_ring3_R"
+										
+								name: "f_ring_knuckles_R"
+								
+							name: "palm_lit_R"
+							
+								name: "f_pinky1_R"
+								
+									name: "f_pinky2_R"
+									
+										name: "f_pinky3_R"
+										
+								name: "f_pinky_knuckles_R"
+								
+							name: "thumb0_R"
+							
+								name: "thumb1_R"
+								
+									name: "thumb2_R"
+									
+										name: "thumb3_R"
+										
+						name: "forearmTwist2_R"
+						
+						name: "forearmTwist_R"
+						
+
+[13:10:00.407756] [Import] [info] (th=13388) File loaded successfully
+[13:10:00.407810] [Import] [info] (th=13388) Meshes count: 0
+[13:10:00.407863] [Import] [info] (th=13388) Materials count: 0
+[13:10:23.731484] [Import] [info] (th=13388) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\GUN_idle\HANDS_grenadeShow.fbx
+[13:10:23.757428] [Import] [info] (th=13388) Imported scene tree:
+name: "RootNode"
+
+	name: "metarig"
+	
+		name: "neck"
+		
+			name: "head"
+			
+			name: "soulder_L"
+			
+				name: "upper_arm_L"
+				
+					name: "forearm.L"
+					
+						name: "hand.L"
+						
+							name: "palm_ind_L"
+							
+								name: "f_index1_L"
+								
+									name: "f_index2_L"
+									
+										name: "f_index3_L"
+										
+								name: "f_ind__knuckles_L"
+								
+							name: "palm_mid_L"
+							
+								name: "f_middle1_L"
+								
+									name: "f_middle2_L"
+									
+										name: "f_middle3_L"
+										
+								name: "f_mid_knuckles_L"
+								
+							name: "palm_ring_L"
+							
+								name: "f_ring1_L"
+								
+									name: "f_ring2_L"
+									
+										name: "f_ring3_L"
+										
+								name: "f_ring_knuckles_L"
+								
+							name: "palm_lit_L"
+							
+								name: "f_pinky1_L"
+								
+									name: "f_pinky2_L"
+									
+										name: "f_pinky3_L"
+										
+								name: "f_pinky_knuckles_L"
+								
+							name: "thumb0_L"
+							
+								name: "thumb1_L"
+								
+									name: "thumb2_L"
+									
+										name: "thumb3_L"
+										
+						name: "forearmTwist2_L"
+						
+						name: "forearmTwist_L"
+						
+			name: "soulder_R"
+			
+				name: "upper_arm_R"
+				
+					name: "forearm.R"
+					
+						name: "hand.R"
+						
+							name: "palm_ind_R"
+							
+								name: "f_index1_R"
+								
+									name: "f_index2_R"
+									
+										name: "f_index3_R"
+										
+								name: "f_ind__knuckles_R"
+								
+							name: "palm_mid_R"
+							
+								name: "f_middle1_R"
+								
+									name: "f_middle2_R"
+									
+										name: "f_middle3_R"
+										
+								name: "f_mid_knuckles_R"
+								
+							name: "palm_ring_R"
+							
+								name: "f_ring1_R"
+								
+									name: "f_ring2_R"
+									
+										name: "f_ring3_R"
+										
+								name: "f_ring_knuckles_R"
+								
+							name: "palm_lit_R"
+							
+								name: "f_pinky1_R"
+								
+									name: "f_pinky2_R"
+									
+										name: "f_pinky3_R"
+										
+								name: "f_pinky_knuckles_R"
+								
+							name: "thumb0_R"
+							
+								name: "thumb1_R"
+								
+									name: "thumb2_R"
+									
+										name: "thumb3_R"
+										
+						name: "forearmTwist2_R"
+						
+						name: "forearmTwist_R"
+						
+
+[13:10:23.757493] [Import] [info] (th=13388) File loaded successfully
+[13:10:23.757546] [Import] [info] (th=13388) Meshes count: 0
+[13:10:23.757599] [Import] [info] (th=13388) Materials count: 0
+[13:10:32.701478] [Import] [info] (th=13388) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\GUN_idle\HANDS_grenadeThrow.fbx
+[13:10:32.730467] [Import] [info] (th=13388) Imported scene tree:
+name: "RootNode"
+
+	name: "metarig"
+	
+		name: "neck"
+		
+			name: "head"
+			
+			name: "soulder_L"
+			
+				name: "upper_arm_L"
+				
+					name: "forearm.L"
+					
+						name: "hand.L"
+						
+							name: "palm_ind_L"
+							
+								name: "f_index1_L"
+								
+									name: "f_index2_L"
+									
+										name: "f_index3_L"
+										
+								name: "f_ind__knuckles_L"
+								
+							name: "palm_mid_L"
+							
+								name: "f_middle1_L"
+								
+									name: "f_middle2_L"
+									
+										name: "f_middle3_L"
+										
+								name: "f_mid_knuckles_L"
+								
+							name: "palm_ring_L"
+							
+								name: "f_ring1_L"
+								
+									name: "f_ring2_L"
+									
+										name: "f_ring3_L"
+										
+								name: "f_ring_knuckles_L"
+								
+							name: "palm_lit_L"
+							
+								name: "f_pinky1_L"
+								
+									name: "f_pinky2_L"
+									
+										name: "f_pinky3_L"
+										
+								name: "f_pinky_knuckles_L"
+								
+							name: "thumb0_L"
+							
+								name: "thumb1_L"
+								
+									name: "thumb2_L"
+									
+										name: "thumb3_L"
+										
+						name: "forearmTwist2_L"
+						
+						name: "forearmTwist_L"
+						
+			name: "soulder_R"
+			
+				name: "upper_arm_R"
+				
+					name: "forearm.R"
+					
+						name: "hand.R"
+						
+							name: "palm_ind_R"
+							
+								name: "f_index1_R"
+								
+									name: "f_index2_R"
+									
+										name: "f_index3_R"
+										
+								name: "f_ind__knuckles_R"
+								
+							name: "palm_mid_R"
+							
+								name: "f_middle1_R"
+								
+									name: "f_middle2_R"
+									
+										name: "f_middle3_R"
+										
+								name: "f_mid_knuckles_R"
+								
+							name: "palm_ring_R"
+							
+								name: "f_ring1_R"
+								
+									name: "f_ring2_R"
+									
+										name: "f_ring3_R"
+										
+								name: "f_ring_knuckles_R"
+								
+							name: "palm_lit_R"
+							
+								name: "f_pinky1_R"
+								
+									name: "f_pinky2_R"
+									
+										name: "f_pinky3_R"
+										
+								name: "f_pinky_knuckles_R"
+								
+							name: "thumb0_R"
+							
+								name: "thumb1_R"
+								
+									name: "thumb2_R"
+									
+										name: "thumb3_R"
+										
+						name: "forearmTwist2_R"
+						
+						name: "forearmTwist_R"
+						
+
+[13:10:32.730538] [Import] [info] (th=13388) File loaded successfully
+[13:10:32.730601] [Import] [info] (th=13388) Meshes count: 0
+[13:10:32.730664] [Import] [info] (th=13388) Materials count: 0
+[13:10:56.916987] [Import] [info] (th=13388) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\GUN_idle\HANDS_hideWeapon.fbx
+[13:10:56.942446] [Import] [info] (th=13388) Imported scene tree:
+name: "RootNode"
+
+	name: "metarig"
+	
+		name: "neck"
+		
+			name: "head"
+			
+			name: "soulder_L"
+			
+				name: "upper_arm_L"
+				
+					name: "forearm.L"
+					
+						name: "hand.L"
+						
+							name: "palm_ind_L"
+							
+								name: "f_index1_L"
+								
+									name: "f_index2_L"
+									
+										name: "f_index3_L"
+										
+								name: "f_ind__knuckles_L"
+								
+							name: "palm_mid_L"
+							
+								name: "f_middle1_L"
+								
+									name: "f_middle2_L"
+									
+										name: "f_middle3_L"
+										
+								name: "f_mid_knuckles_L"
+								
+							name: "palm_ring_L"
+							
+								name: "f_ring1_L"
+								
+									name: "f_ring2_L"
+									
+										name: "f_ring3_L"
+										
+								name: "f_ring_knuckles_L"
+								
+							name: "palm_lit_L"
+							
+								name: "f_pinky1_L"
+								
+									name: "f_pinky2_L"
+									
+										name: "f_pinky3_L"
+										
+								name: "f_pinky_knuckles_L"
+								
+							name: "thumb0_L"
+							
+								name: "thumb1_L"
+								
+									name: "thumb2_L"
+									
+										name: "thumb3_L"
+										
+						name: "forearmTwist2_L"
+						
+						name: "forearmTwist_L"
+						
+			name: "soulder_R"
+			
+				name: "upper_arm_R"
+				
+					name: "forearm.R"
+					
+						name: "hand.R"
+						
+							name: "palm_ind_R"
+							
+								name: "f_index1_R"
+								
+									name: "f_index2_R"
+									
+										name: "f_index3_R"
+										
+								name: "f_ind__knuckles_R"
+								
+							name: "palm_mid_R"
+							
+								name: "f_middle1_R"
+								
+									name: "f_middle2_R"
+									
+										name: "f_middle3_R"
+										
+								name: "f_mid_knuckles_R"
+								
+							name: "palm_ring_R"
+							
+								name: "f_ring1_R"
+								
+									name: "f_ring2_R"
+									
+										name: "f_ring3_R"
+										
+								name: "f_ring_knuckles_R"
+								
+							name: "palm_lit_R"
+							
+								name: "f_pinky1_R"
+								
+									name: "f_pinky2_R"
+									
+										name: "f_pinky3_R"
+										
+								name: "f_pinky_knuckles_R"
+								
+							name: "thumb0_R"
+							
+								name: "thumb1_R"
+								
+									name: "thumb2_R"
+									
+										name: "thumb3_R"
+										
+						name: "forearmTwist2_R"
+						
+						name: "forearmTwist_R"
+						
+
+[13:10:56.942510] [Import] [info] (th=13388) File loaded successfully
+[13:10:56.942562] [Import] [info] (th=13388) Meshes count: 0
+[13:10:56.942615] [Import] [info] (th=13388) Materials count: 0
+[13:11:10.224790] [Import] [info] (th=13388) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\GUN_idle\HANDS_showWeapon.fbx
+[13:11:10.254017] [Import] [info] (th=13388) Imported scene tree:
+name: "RootNode"
+
+	name: "metarig"
+	
+		name: "neck"
+		
+			name: "head"
+			
+			name: "soulder_L"
+			
+				name: "upper_arm_L"
+				
+					name: "forearm.L"
+					
+						name: "hand.L"
+						
+							name: "palm_ind_L"
+							
+								name: "f_index1_L"
+								
+									name: "f_index2_L"
+									
+										name: "f_index3_L"
+										
+								name: "f_ind__knuckles_L"
+								
+							name: "palm_mid_L"
+							
+								name: "f_middle1_L"
+								
+									name: "f_middle2_L"
+									
+										name: "f_middle3_L"
+										
+								name: "f_mid_knuckles_L"
+								
+							name: "palm_ring_L"
+							
+								name: "f_ring1_L"
+								
+									name: "f_ring2_L"
+									
+										name: "f_ring3_L"
+										
+								name: "f_ring_knuckles_L"
+								
+							name: "palm_lit_L"
+							
+								name: "f_pinky1_L"
+								
+									name: "f_pinky2_L"
+									
+										name: "f_pinky3_L"
+										
+								name: "f_pinky_knuckles_L"
+								
+							name: "thumb0_L"
+							
+								name: "thumb1_L"
+								
+									name: "thumb2_L"
+									
+										name: "thumb3_L"
+										
+						name: "forearmTwist2_L"
+						
+						name: "forearmTwist_L"
+						
+			name: "soulder_R"
+			
+				name: "upper_arm_R"
+				
+					name: "forearm.R"
+					
+						name: "hand.R"
+						
+							name: "palm_ind_R"
+							
+								name: "f_index1_R"
+								
+									name: "f_index2_R"
+									
+										name: "f_index3_R"
+										
+								name: "f_ind__knuckles_R"
+								
+							name: "palm_mid_R"
+							
+								name: "f_middle1_R"
+								
+									name: "f_middle2_R"
+									
+										name: "f_middle3_R"
+										
+								name: "f_mid_knuckles_R"
+								
+							name: "palm_ring_R"
+							
+								name: "f_ring1_R"
+								
+									name: "f_ring2_R"
+									
+										name: "f_ring3_R"
+										
+								name: "f_ring_knuckles_R"
+								
+							name: "palm_lit_R"
+							
+								name: "f_pinky1_R"
+								
+									name: "f_pinky2_R"
+									
+										name: "f_pinky3_R"
+										
+								name: "f_pinky_knuckles_R"
+								
+							name: "thumb0_R"
+							
+								name: "thumb1_R"
+								
+									name: "thumb2_R"
+									
+										name: "thumb3_R"
+										
+						name: "forearmTwist2_R"
+						
+						name: "forearmTwist_R"
+						
+
+[13:11:10.254116] [Import] [info] (th=13388) File loaded successfully
+[13:11:10.254186] [Import] [info] (th=13388) Meshes count: 0
+[13:11:10.254267] [Import] [info] (th=13388) Materials count: 0
+[13:48:04.753961] [Import] [info] (th=13388) Importing from D:\Users\Chris\Documents\ManuCollab\LEvEL1_prototype6_PACKAGE\GUN_idle\HANDS_walk.fbx
+[13:48:04.778959] [Import] [info] (th=13388) Imported scene tree:
+name: "RootNode"
+
+	name: "metarig"
+	
+		name: "neck"
+		
+			name: "head"
+			
+			name: "soulder_L"
+			
+				name: "upper_arm_L"
+				
+					name: "forearm.L"
+					
+						name: "hand.L"
+						
+							name: "palm_ind_L"
+							
+								name: "f_index1_L"
+								
+									name: "f_index2_L"
+									
+										name: "f_index3_L"
+										
+								name: "f_ind__knuckles_L"
+								
+							name: "palm_mid_L"
+							
+								name: "f_middle1_L"
+								
+									name: "f_middle2_L"
+									
+										name: "f_middle3_L"
+										
+								name: "f_mid_knuckles_L"
+								
+							name: "palm_ring_L"
+							
+								name: "f_ring1_L"
+								
+									name: "f_ring2_L"
+									
+										name: "f_ring3_L"
+										
+								name: "f_ring_knuckles_L"
+								
+							name: "palm_lit_L"
+							
+								name: "f_pinky1_L"
+								
+									name: "f_pinky2_L"
+									
+										name: "f_pinky3_L"
+										
+								name: "f_pinky_knuckles_L"
+								
+							name: "thumb0_L"
+							
+								name: "thumb1_L"
+								
+									name: "thumb2_L"
+									
+										name: "thumb3_L"
+										
+						name: "forearmTwist2_L"
+						
+						name: "forearmTwist_L"
+						
+			name: "soulder_R"
+			
+				name: "upper_arm_R"
+				
+					name: "forearm.R"
+					
+						name: "hand.R"
+						
+							name: "palm_ind_R"
+							
+								name: "f_index1_R"
+								
+									name: "f_index2_R"
+									
+										name: "f_index3_R"
+										
+								name: "f_ind__knuckles_R"
+								
+							name: "palm_mid_R"
+							
+								name: "f_middle1_R"
+								
+									name: "f_middle2_R"
+									
+										name: "f_middle3_R"
+										
+								name: "f_mid_knuckles_R"
+								
+							name: "palm_ring_R"
+							
+								name: "f_ring1_R"
+								
+									name: "f_ring2_R"
+									
+										name: "f_ring3_R"
+										
+								name: "f_ring_knuckles_R"
+								
+							name: "palm_lit_R"
+							
+								name: "f_pinky1_R"
+								
+									name: "f_pinky2_R"
+									
+										name: "f_pinky3_R"
+										
+								name: "f_pinky_knuckles_R"
+								
+							name: "thumb0_R"
+							
+								name: "thumb1_R"
+								
+									name: "thumb2_R"
+									
+										name: "thumb3_R"
+										
+						name: "forearmTwist2_R"
+						
+						name: "forearmTwist_R"
+						
+
+[13:48:04.779042] [Import] [info] (th=13388) File loaded successfully
+[13:48:04.779120] [Import] [info] (th=13388) Meshes count: 0
+[13:48:04.779188] [Import] [info] (th=13388) Materials count: 0
