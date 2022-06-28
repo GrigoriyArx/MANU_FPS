@@ -1,1 +1,1 @@
-{"@class":"Animation","id":{"uuid":"93CBD79E-955B-4195-88A4-D63FF665E709"}}
+{"@class":"Animation","id":{"uuid":"93CBD79E-955B-4195-88A4-D63FF665E709"},"tracks":[{"@class":"BoolBehaviorTrack","clips":[{"@class":"BoolBehaviorClip","beginTime":0,"duration":2100,"script":"BoolValueBehaviorClipScript","behavior":{"@class":"BoolDiscreteBehavior","frames":[{"@class":"BoolKeyFrame","formula":{"@class":"BoolExpressionFormula","expression":"false"},"time":2100}]}}],"script":"BoolBehaviorTrackScript","accessor":"Object3DEnabledBlendAccessor"}]}
