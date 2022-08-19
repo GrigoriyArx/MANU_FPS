@@ -1,0 +1,501 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "0FC6B08A-497E-484A-B018-D43AD6830547"
+            },
+            "name": "Meteor Pieces",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        4.2662339047767896e-16,
+                        4.064217393889586e-15,
+                        0.0,
+                        -4.2662328459856056e-16,
+                        0.9999997615814209,
+                        0.0,
+                        0.0,
+                        -4.064216123340165e-15,
+                        -1.733889714412043e-30,
+                        0.9999997019767761,
+                        0.0,
+                        -212.73910522460938,
+                        62.12346267700195,
+                        225.6324462890625,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        4.2662336400789936e-16,
+                        4.0642169703731128e-15,
+                        0.0,
+                        -4.2662328459856056e-16,
+                        0.9999997019767761,
+                        0.0,
+                        0.0,
+                        -4.064216123340165e-15,
+                        -1.7338895263329469e-30,
+                        0.9999996423721314,
+                        0.0,
+                        -212.73910522460938,
+                        62.12345886230469,
+                        225.63243103027345,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        },
+        "children": [
+            "98C66259-B388-400E-A2BD-BCE112260556",
+            "41F5EB4D-8382-4DED-A22C-295B7BAAC802",
+            "7C2875D1-FA17-4881-A1E2-E3F03E3EF01C",
+            "2A385D31-47EE-4513-B411-1C237A4633CF",
+            "D8C165B5-F80D-4AB3-93E9-3BCD9E5B284E"
+        ]
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "98C66259-B388-400E-A2BD-BCE112260556"
+            },
+            "name": "Meteor piece 1",
+            "enabled": false,
+            "visible": true,
+            "hitVisible": true,
+            "colliders": [
+                {
+                    "@class": "BaseComponentCollider",
+                    "colliderId": {
+                        "uuid": "C7657613-8A7C-427C-91F3-4D57399AF529"
+                    }
+                }
+            ],
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "C640BAA3-36EF-4860-B145-633D72A0E15C"
+                },
+                "static": false,
+                "shadowCast": false,
+                "shadowReceive": false
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "440857AB-66F3-4D1C-90A8-1DC501DDD734"
+                }
+            },
+            "rigidBody": {
+                "@class": "BaseComponentPhysBody",
+                "rigidBodyId": {
+                    "uuid": "713ED98A-9E1A-4DB3-BA6E-B14D28E5717C"
+                },
+                "isEnabled": false
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        3.0,
+                        -5.717473605656878e-21,
+                        6.352759221310757e-22,
+                        0.0,
+                        6.35273347289081e-22,
+                        -0.0000014305118156698882,
+                        -3.0000007152557375,
+                        0.0,
+                        5.717473605656878e-21,
+                        3.0,
+                        -0.000001430511474609375,
+                        0.0,
+                        0.0000152587890625,
+                        0.0,
+                        -0.0000457763671875,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        3.0,
+                        1.2798643480815245e-15,
+                        1.2192652181668758e-14,
+                        0.0,
+                        1.2192652181668758e-14,
+                        -0.0000014305113609225373,
+                        -2.999999523162842,
+                        0.0,
+                        -1.2798583129717753e-15,
+                        2.9999990463256838,
+                        -0.0000014305110198620242,
+                        0.0,
+                        -212.7390899658203,
+                        62.12345886230469,
+                        225.63238525390626,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Stone1.001",
+                "importedName": "Stone1.001",
+                "isBone": false
+            }
+        }
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "41F5EB4D-8382-4DED-A22C-295B7BAAC802"
+            },
+            "name": "Meteor piece 2",
+            "enabled": false,
+            "visible": true,
+            "hitVisible": true,
+            "colliders": [
+                {
+                    "@class": "BaseComponentCollider",
+                    "colliderId": {
+                        "uuid": "EA4D77B9-B1E2-44E1-86DF-79F9B4EE8048"
+                    }
+                }
+            ],
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "C640BAA3-36EF-4860-B145-633D72A0E15C"
+                },
+                "static": false,
+                "shadowCast": false,
+                "shadowReceive": false
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "440857AB-66F3-4D1C-90A8-1DC501DDD734"
+                }
+            },
+            "rigidBody": {
+                "@class": "BaseComponentPhysBody",
+                "rigidBodyId": {
+                    "uuid": "4BD99426-1150-47BD-81BF-E0D740CDE628"
+                },
+                "isEnabled": false
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        2.0,
+                        -4.136942289189015e-21,
+                        3.523347142497995e-22,
+                        0.0,
+                        3.523329472013718e-22,
+                        -9.536744300930878e-7,
+                        -2.000000238418579,
+                        0.0,
+                        4.136943096982582e-21,
+                        2.000000238418579,
+                        -9.536744300930878e-7,
+                        0.0,
+                        0.000030517578125,
+                        0.0,
+                        -0.0000762939453125,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        2.0,
+                        8.532425987301808e-16,
+                        8.128433940746225e-15,
+                        0.0,
+                        8.128433940746225e-15,
+                        -9.536741458759934e-7,
+                        -1.9999995231628419,
+                        0.0,
+                        -8.532386812027998e-16,
+                        1.9999996423721314,
+                        -9.536740890325746e-7,
+                        0.0,
+                        -212.73907470703126,
+                        62.12345886230469,
+                        225.63235473632813,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Stone1.001",
+                "importedName": "Stone1.001",
+                "isBone": false
+            }
+        }
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "7C2875D1-FA17-4881-A1E2-E3F03E3EF01C"
+            },
+            "name": "Meteor piece 3",
+            "enabled": false,
+            "visible": true,
+            "hitVisible": true,
+            "colliders": [
+                {
+                    "@class": "BaseComponentCollider",
+                    "colliderId": {
+                        "uuid": "8247B4D2-3F11-4FCD-A481-A1B6D87AB2A6"
+                    }
+                }
+            ],
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "C640BAA3-36EF-4860-B145-633D72A0E15C"
+                },
+                "static": false,
+                "shadowCast": false,
+                "shadowReceive": false
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "440857AB-66F3-4D1C-90A8-1DC501DDD734"
+                }
+            },
+            "rigidBody": {
+                "@class": "BaseComponentPhysBody",
+                "rigidBodyId": {
+                    "uuid": "2419BCEF-5B5A-43F4-A26F-75E92C2F0399"
+                },
+                "isEnabled": false
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        3.5,
+                        -8.017857638508663e-21,
+                        -7.916051819163202e-22,
+                        0.0,
+                        -7.91609170397057e-22,
+                        -0.000001668930281084613,
+                        -3.500000476837158,
+                        0.0,
+                        8.017859254095796e-21,
+                        3.500000476837158,
+                        -0.000001668930281084613,
+                        0.0,
+                        0.0000457763671875,
+                        0.0,
+                        -0.0001068115234375,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        3.5,
+                        1.493173713979759e-15,
+                        1.422475960806413e-14,
+                        0.0,
+                        1.4224757913998237e-14,
+                        -0.000001668929826337262,
+                        -3.4999992847442629,
+                        0.0,
+                        -1.4931668318370626e-15,
+                        3.499999523162842,
+                        -0.0000016689297126504244,
+                        0.0,
+                        -212.7390594482422,
+                        62.12345886230469,
+                        225.63232421875,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Stone1.001",
+                "importedName": "Stone1.001",
+                "isBone": false
+            }
+        }
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "2A385D31-47EE-4513-B411-1C237A4633CF"
+            },
+            "name": "Meteor piece 4",
+            "enabled": false,
+            "visible": true,
+            "hitVisible": true,
+            "colliders": [
+                {
+                    "@class": "BaseComponentCollider",
+                    "colliderId": {
+                        "uuid": "F6109C09-BB39-492F-AE1D-1C8847AF7EEB"
+                    }
+                }
+            ],
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "C640BAA3-36EF-4860-B145-633D72A0E15C"
+                },
+                "static": false,
+                "shadowCast": false,
+                "shadowReceive": false
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "440857AB-66F3-4D1C-90A8-1DC501DDD734"
+                }
+            },
+            "rigidBody": {
+                "@class": "BaseComponentPhysBody",
+                "rigidBodyId": {
+                    "uuid": "67C6C3D4-C390-45DA-9770-B3CE05A55B90"
+                },
+                "isEnabled": false
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.5,
+                        -3.456077325416973e-21,
+                        -9.943868127172044e-22,
+                        0.0,
+                        -9.943884283043383e-22,
+                        -7.152558509915252e-7,
+                        -1.500000238418579,
+                        0.0,
+                        3.456077729313757e-21,
+                        1.500000238418579,
+                        -7.152558509915252e-7,
+                        0.0,
+                        0.00006103515625,
+                        0.0,
+                        -0.0001373291015625,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.5,
+                        6.39931591705611e-16,
+                        6.096324820284958e-15,
+                        0.0,
+                        6.0963243967684849e-15,
+                        -7.152556236178498e-7,
+                        -1.4999996423721314,
+                        0.0,
+                        -6.399286800298548e-16,
+                        1.499999761581421,
+                        -7.152555667744309e-7,
+                        0.0,
+                        -212.73904418945313,
+                        62.12345886230469,
+                        225.63229370117188,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Stone1.001",
+                "importedName": "Stone1.001",
+                "isBone": false
+            }
+        }
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "D8C165B5-F80D-4AB3-93E9-3BCD9E5B284E"
+            },
+            "name": "Flying Pieces",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "timeline": {
+                "@class": "BaseComponentTimeline",
+                "timelineId": {
+                    "uuid": "81352CF5-545A-4880-8FA5-5BC0F4F7BBE3"
+                }
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        4.2662336400789936e-16,
+                        4.0642169703731128e-15,
+                        0.0,
+                        -4.2662328459856056e-16,
+                        0.9999997019767761,
+                        0.0,
+                        0.0,
+                        -4.064216123340165e-15,
+                        -1.7338895263329469e-30,
+                        0.9999996423721314,
+                        0.0,
+                        -212.73910522460938,
+                        62.12345886230469,
+                        225.63243103027345,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        }
+    }
+]
