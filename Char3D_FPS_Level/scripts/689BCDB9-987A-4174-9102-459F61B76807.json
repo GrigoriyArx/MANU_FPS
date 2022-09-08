@@ -1,1 +1,1 @@
-{"@class":"Script_Sun","id":{"uuid":"689BCDB9-987A-4174-9102-459F61B76807"},"name":"Script_Sun","enableOnAwake":true,"sun_enabled":true,"sun_color":{"values":[0.06961166113615036,0.06961166113615036,0.09756618738174439]},"sun_rotation":{"values":[-50.0,50.0,0.0]},"sun_intensity":1.0}
+{"@class":"Script_Sun","id":{"uuid":"689BCDB9-987A-4174-9102-459F61B76807"},"name":"Script_Sun","enableOnAwake":false,"sun_enabled":false,"sun_color":{"values":[0.06961166113615036,0.06961166113615036,0.09756618738174439]},"sun_rotation":{"values":[-50.0,50.0,0.0]},"sun_intensity":1.0}
