@@ -1,0 +1,1 @@
+{"@class":"Light","id":{"uuid":"5C4E758B-EC9C-4BFA-9BC8-8A1C91AC12DD"},"lightType":"spot","color":{"values":[0.15294118225574494,0.5686274766921997,0.8274509906768799]},"intensity":2.0,"radius":5.0,"coneAngle":160.0,"prenumbra":30.0,"shadowType":"no","shadowSizeX":16.0,"shadowSizeY":16.0,"shadowResolutionX":1024.0,"shadowResolutionY":1024.0,"shadowDarkness":1.0,"shadowBias":0.5}
